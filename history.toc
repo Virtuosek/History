@@ -15,220 +15,240 @@
 \contentsline {subsection}{\numberline {6.1.1}Birth of Alexander III of Macedon}{20}
 \contentsline {part}{III\hspace {1em}6th century}{21}
 \contentsline {chapter}{\numberline {7}570}{22}
-\contentsline {subsection}{\numberline {7.0.1}Birth of Muhammad}{22}
-\contentsline {part}{IV\hspace {1em}12th century}{23}
-\contentsline {chapter}{\numberline {8}1162}{24}
-\contentsline {subsection}{\numberline {8.0.1}Birth of Genghis Khan}{24}
-\contentsline {part}{V\hspace {1em}15th century}{25}
-\contentsline {chapter}{\numberline {9}1492}{26}
-\contentsline {section}{\numberline {9.1}December 26}{26}
-\contentsline {subsection}{\numberline {9.1.1}1st Spanish settlement La Navidad in the New World}{26}
-\contentsline {part}{VI\hspace {1em}16th century}{27}
-\contentsline {chapter}{\numberline {10}1543}{28}
-\contentsline {section}{\numberline {10.1}Modern scientific revolution}{28}
-\contentsline {part}{VII\hspace {1em}17th century}{29}
-\contentsline {chapter}{\numberline {11}1643}{30}
-\contentsline {section}{\numberline {11.1}January 04}{30}
-\contentsline {subsection}{\numberline {11.1.1}Birth of Sir Isaac Newton}{30}
-\contentsline {part}{VIII\hspace {1em}18th century}{31}
-\contentsline {chapter}{\numberline {12}1760}{32}
-\contentsline {subsection}{\numberline {12.0.1}industrial revolution}{32}
-\contentsline {chapter}{\numberline {13}1766}{33}
-\contentsline {section}{\numberline {13.1}December 25}{33}
-\contentsline {subsection}{\numberline {13.1.1}George Washington's crossing of the Delaware River}{33}
-\contentsline {part}{IX\hspace {1em}19th century}{34}
-\contentsline {chapter}{\numberline {14}1821}{35}
-\contentsline {section}{\numberline {14.1}December 25}{35}
-\contentsline {subsection}{\numberline {14.1.1}Birth of Clara Harlowe Barton}{35}
-\contentsline {chapter}{\numberline {15}1879}{36}
-\contentsline {section}{\numberline {15.1}March 14}{36}
-\contentsline {subsection}{\numberline {15.1.1}Birth of Albert Einstein}{36}
-\contentsline {chapter}{\numberline {16}1887}{37}
-\contentsline {section}{\numberline {16.1}January 28}{37}
-\contentsline {subsection}{\numberline {16.1.1}Construction of the Eiffel Tower begins}{37}
-\contentsline {chapter}{\numberline {17}1889}{38}
-\contentsline {section}{\numberline {17.1}September 23}{38}
-\contentsline {subsection}{\numberline {17.1.1}Nintendo is founded}{38}
-\contentsline {chapter}{\numberline {18}1892}{39}
-\contentsline {section}{\numberline {18.1}January 3}{39}
-\contentsline {subsection}{\numberline {18.1.1}Birth of J.R.R Tolkien}{39}
-\contentsline {part}{X\hspace {1em}20th Century}{40}
-\contentsline {chapter}{\numberline {19}Year 1903}{41}
-\contentsline {section}{\numberline {19.1}December 17}{41}
-\contentsline {subsection}{\numberline {19.1.1}Invetion of flight}{41}
-\contentsline {chapter}{\numberline {20}Year 1907}{42}
-\contentsline {section}{\numberline {20.1}August 31}{42}
-\contentsline {subsection}{\numberline {20.1.1}The Triple Entente is created}{42}
-\contentsline {chapter}{\numberline {21}1914}{43}
-\contentsline {section}{\numberline {21.1}June 28}{43}
-\contentsline {subsection}{\numberline {21.1.1}Assassination of Franz Ferdinand}{43}
-\contentsline {section}{\numberline {21.2}July 28}{44}
-\contentsline {subsection}{\numberline {21.2.1}Austria-Hungary declares war on Serbia (World War I begins)}{44}
-\contentsline {section}{\numberline {21.3}July 31}{44}
-\contentsline {subsection}{\numberline {21.3.1}Russia mobilizes its army in defense of Serbia}{44}
-\contentsline {section}{\numberline {21.4}August 01-03}{45}
-\contentsline {subsection}{\numberline {21.4.1}Germany declares war on Russia and France}{45}
-\contentsline {section}{\numberline {21.5}August 04}{46}
-\contentsline {subsection}{\numberline {21.5.1}Germany invades neutral Belgium}{46}
-\contentsline {section}{\numberline {21.6}August 05}{47}
-\contentsline {subsection}{\numberline {21.6.1}Battle of Li\IeC {\`e}ge}{47}
-\contentsline {section}{\numberline {21.7}August 15-24}{48}
-\contentsline {subsection}{\numberline {21.7.1}Battle of Cer}{48}
-\contentsline {section}{\numberline {21.8}August-September}{49}
-\contentsline {subsection}{\numberline {21.8.1}Battle of Galicia}{49}
-\contentsline {subsection}{\numberline {21.8.2}Battle of Frontiers}{50}
-\contentsline {section}{\numberline {21.9}December 25}{51}
-\contentsline {subsection}{\numberline {21.9.1}The Christmas truce}{51}
-\contentsline {chapter}{\numberline {22}1918}{52}
-\contentsline {section}{\numberline {22.1}November 11}{52}
-\contentsline {subsection}{\numberline {22.1.1}World War I ends}{52}
-\contentsline {section}{\numberline {22.2}October 29}{52}
-\contentsline {subsection}{\numberline {22.2.1}The German Revolution}{52}
-\contentsline {chapter}{\numberline {23}1929}{53}
-\contentsline {section}{\numberline {23.1}October 24 "Black Thursday"}{53}
-\contentsline {subsection}{\numberline {23.1.1}The Wall Street Crash}{53}
-\contentsline {chapter}{\numberline {24}1933}{54}
-\contentsline {section}{\numberline {24.1}December 26}{54}
-\contentsline {subsection}{\numberline {24.1.1}Nissan if founded}{54}
-\contentsline {chapter}{\numberline {25}1939}{55}
-\contentsline {section}{\numberline {25.1}September 1}{55}
-\contentsline {subsection}{\numberline {25.1.1}World War II begins}{55}
-\contentsline {chapter}{\numberline {26}1940}{56}
-\contentsline {section}{\numberline {26.1}May 15}{56}
-\contentsline {subsection}{\numberline {26.1.1}McDonald's is founded \footnote {Movie/Documentary: The Founder (2016)}}{56}
-\contentsline {chapter}{\numberline {27}1942}{57}
-\contentsline {section}{\numberline {27.1}January 8}{57}
-\contentsline {subsection}{\numberline {27.1.1}Birth of Stephen Hawking}{57}
-\contentsline {chapter}{\numberline {28}1945}{58}
-\contentsline {section}{\numberline {28.1}September 2}{58}
-\contentsline {subsection}{\numberline {28.1.1}World War II ends}{58}
-\contentsline {chapter}{\numberline {29}1946}{59}
-\contentsline {section}{\numberline {29.1}May 7}{59}
-\contentsline {subsection}{\numberline {29.1.1}Sony if founded}{59}
-\contentsline {chapter}{\numberline {30}1947}{60}
-\contentsline {section}{\numberline {30.1}August 14}{60}
-\contentsline {subsection}{\numberline {30.1.1}The birth of Pakistan \footnote {Movie/Documentary: Gandhi (1982)}}{60}
-\contentsline {section}{\numberline {30.2}August 15}{61}
-\contentsline {subsection}{\numberline {30.2.1}Independence of India \footnote {Movie/Documentary: Gandhi (1982)}}{61}
-\contentsline {chapter}{\numberline {31}1948}{62}
-\contentsline {section}{\numberline {31.1}January 30}{62}
-\contentsline {subsection}{\numberline {31.1.1}Assassination of Mahatma Gandhi\footnote {Movie/Documentary: Gandhi (1982)}}{62}
-\contentsline {chapter}{\numberline {32}1954}{63}
-\contentsline {section}{\numberline {32.1}July 29}{63}
-\contentsline {subsection}{\numberline {32.1.1}"LOTR: The Fellowship of the Ring" published}{63}
-\contentsline {chapter}{\numberline {33}1957}{64}
-\contentsline {subsection}{\numberline {33.0.1}The beginning of space age}{64}
-\contentsline {chapter}{\numberline {34}1962}{65}
-\contentsline {section}{\numberline {34.1}November 3}{65}
-\contentsline {subsection}{\numberline {34.1.1}Birth of Gabe Newell}{65}
-\contentsline {chapter}{\numberline {35}1969}{66}
-\contentsline {section}{\numberline {35.1}July 20}{66}
-\contentsline {subsection}{\numberline {35.1.1}Landing on The Moon (Apollo 11)}{66}
-\contentsline {chapter}{\numberline {36}1975}{67}
-\contentsline {section}{\numberline {36.1}November}{67}
-\contentsline {subsection}{\numberline {36.1.1}Moroccan Green March}{67}
-\contentsline {chapter}{\numberline {37}1977}{68}
-\contentsline {section}{\numberline {37.1}August 20 to September 05}{68}
-\contentsline {subsection}{\numberline {37.1.1}Beginning of the Voyager program \footnote {Documentary: The Farthest (2017)}}{68}
-\contentsline {chapter}{\numberline {38}1979}{69}
-\contentsline {section}{\numberline {38.1}December 25}{69}
-\contentsline {subsection}{\numberline {38.1.1}Egypt begins major restoration of the Sphinx}{69}
-\contentsline {chapter}{\numberline {39}1983}{70}
-\contentsline {section}{\numberline {39.1}November 10}{70}
-\contentsline {subsection}{\numberline {39.1.1}Windows announced}{70}
-\contentsline {chapter}{\numberline {40}1986}{71}
-\contentsline {section}{\numberline {40.1}April 25-26}{71}
-\contentsline {subsection}{\numberline {40.1.1}Chernobyl disaster}{71}
-\contentsline {chapter}{\numberline {41}1989}{72}
-\contentsline {section}{\numberline {41.1}November 09}{72}
-\contentsline {subsection}{\numberline {41.1.1}Fall of the Berlin Wall}{72}
-\contentsline {section}{\numberline {41.2}?}{73}
-\contentsline {subsection}{\numberline {41.2.1}Tim Berners-Lee invents the World Wide Web \footnote {Lo and Behold: Reveries of the Connected World (2016)}}{73}
-\contentsline {chapter}{\numberline {42}1990}{74}
-\contentsline {section}{\numberline {42.1}April 24}{74}
-\contentsline {subsection}{\numberline {42.1.1}Launch of the Hubble Space Telescope}{74}
-\contentsline {section}{\numberline {42.2}August 2}{75}
-\contentsline {subsection}{\numberline {42.2.1}Invasion of Kuwait}{75}
-\contentsline {chapter}{\numberline {43}1991}{76}
-\contentsline {section}{\numberline {43.1}August 06}{76}
-\contentsline {subsection}{\numberline {43.1.1}First Website is put online and available to the public}{76}
-\contentsline {section}{\numberline {43.2}December 26}{76}
-\contentsline {subsection}{\numberline {43.2.1}Dissolution of the Soviet Union}{76}
-\contentsline {chapter}{\numberline {44}1992}{77}
-\contentsline {section}{\numberline {44.1}February 07}{77}
-\contentsline {subsection}{\numberline {44.1.1}Maastricht Treaty creates the European Union}{77}
-\contentsline {section}{\numberline {44.2}February 22}{78}
-\contentsline {subsection}{\numberline {44.2.1}The first extra-solar planet is confirmed}{78}
-\contentsline {chapter}{\numberline {45}1994}{79}
-\contentsline {section}{\numberline {45.1}March 10}{79}
-\contentsline {subsection}{\numberline {45.1.1}Election of Nelson Mandela}{79}
-\contentsline {chapter}{\numberline {46}1995}{80}
-\contentsline {section}{\numberline {46.1}August 16}{80}
-\contentsline {subsection}{\numberline {46.1.1}First release of Internet Explorer}{80}
-\contentsline {chapter}{\numberline {47}1996}{81}
-\contentsline {section}{\numberline {47.1}July 05}{81}
-\contentsline {subsection}{\numberline {47.1.1}The first successful cloned mammal: Dolly the sheep}{81}
-\contentsline {section}{\numberline {47.2}August 24}{82}
-\contentsline {subsection}{\numberline {47.2.1}Valve Corp. is founded}{82}
-\contentsline {chapter}{\numberline {48}1998}{83}
-\contentsline {section}{\numberline {48.1}September 04}{83}
-\contentsline {subsection}{\numberline {48.1.1}Google is founded by Larry Page and Sergey Brin}{83}
-\contentsline {section}{\numberline {48.2}November 20}{84}
-\contentsline {subsection}{\numberline {48.2.1}Construction of the ISS begins}{84}
-\contentsline {part}{XI\hspace {1em}21st century}{85}
-\contentsline {chapter}{\numberline {49}2000}{86}
-\contentsline {section}{\numberline {49.1}January 01}{86}
-\contentsline {subsection}{\numberline {49.1.1}Beginning of the 3rd millennium}{86}
-\contentsline {chapter}{\numberline {50}2001}{87}
-\contentsline {section}{\numberline {50.1}January 15}{87}
-\contentsline {subsection}{\numberline {50.1.1}Wikipedia is founded}{87}
-\contentsline {section}{\numberline {50.2}September 11}{88}
-\contentsline {subsection}{\numberline {50.2.1}9-11 Attacks}{88}
-\contentsline {section}{\numberline {50.3}November 15}{89}
-\contentsline {subsection}{\numberline {50.3.1}Xbox Introduced}{89}
-\contentsline {chapter}{\numberline {51}2002}{90}
-\contentsline {section}{\numberline {51.1}January 01}{90}
-\contentsline {subsection}{\numberline {51.1.1}The Euro is introduced within the EU}{90}
-\contentsline {chapter}{\numberline {52}2003}{91}
-\contentsline {section}{\numberline {52.1}March 20}{91}
-\contentsline {subsection}{\numberline {52.1.1}Beginning of the Iraq war}{91}
-\contentsline {section}{\numberline {52.2}September 11}{92}
-\contentsline {subsection}{\numberline {52.2.1}Steam released}{92}
-\contentsline {chapter}{\numberline {53}2004}{93}
-\contentsline {section}{\numberline {53.1}February 04}{93}
-\contentsline {subsection}{\numberline {53.1.1}Facebook is founded}{93}
-\contentsline {section}{\numberline {53.2}December 26}{94}
-\contentsline {subsection}{\numberline {53.2.1}Indian Ocean earthquake and tsunami}{94}
-\contentsline {chapter}{\numberline {54}2005}{95}
-\contentsline {section}{\numberline {54.1}February}{95}
-\contentsline {subsection}{\numberline {54.1.1}YouTube is founded}{95}
-\contentsline {section}{\numberline {54.2}August}{96}
-\contentsline {subsection}{\numberline {54.2.1}Hurricane Katrina}{96}
-\contentsline {chapter}{\numberline {55}2006}{97}
-\contentsline {section}{\numberline {55.1}March 21}{97}
-\contentsline {subsection}{\numberline {55.1.1}Twitter is founded}{97}
-\contentsline {chapter}{\numberline {56}2007}{98}
-\contentsline {section}{\numberline {56.1}June 29}{98}
-\contentsline {subsection}{\numberline {56.1.1}iPhone is released}{98}
-\contentsline {chapter}{\numberline {57}2008}{99}
-\contentsline {section}{\numberline {57.1}September 15}{99}
-\contentsline {subsection}{\numberline {57.1.1}2008 Financial Crisis}{99}
-\contentsline {chapter}{\numberline {58}2009}{100}
-\contentsline {section}{\numberline {58.1}January 20}{100}
-\contentsline {subsection}{\numberline {58.1.1}Inauguration of Barack Obama}{100}
-\contentsline {section}{\numberline {58.2}October 01}{101}
-\contentsline {subsection}{\numberline {58.2.1}Burj Khalifa completed}{101}
-\contentsline {chapter}{\numberline {59}2011}{102}
-\contentsline {section}{\numberline {59.1}June}{102}
-\contentsline {subsection}{\numberline {59.1.1}Twitch is founded}{102}
-\contentsline {chapter}{\numberline {60}2012}{103}
-\contentsline {section}{\numberline {60.1}August 06}{103}
-\contentsline {subsection}{\numberline {60.1.1}Curiosity Rover lands on Mars}{103}
-\contentsline {chapter}{\numberline {61}2013}{104}
-\contentsline {section}{\numberline {61.1}September 14}{104}
-\contentsline {subsection}{\numberline {61.1.1}Voyager 1 is the first probe to exit the Solar-System}{104}
-\contentsline {chapter}{\numberline {62}2018}{105}
-\contentsline {section}{\numberline {62.1}March 14}{105}
-\contentsline {subsection}{\numberline {62.1.1}Death of Stephen Hawking}{105}
-\contentsline {section}{\numberline {62.2}May 29}{105}
-\contentsline {subsection}{\numberline {62.2.1}Death of Ali Banat}{105}
+\contentsline {section}{\numberline {7.1}}{22}
+\contentsline {subsection}{\numberline {7.1.1}Birth of Muhammad}{22}
+\contentsline {chapter}{\numberline {8}}{23}
+\contentsline {section}{\numberline {8.1}}{23}
+\contentsline {subsection}{\numberline {8.1.1}Bubonic Plague pandemic}{23}
+\contentsline {part}{IV\hspace {1em}12th century}{24}
+\contentsline {chapter}{\numberline {9}1162}{25}
+\contentsline {subsection}{\numberline {9.0.1}Birth of Genghis Khan}{25}
+\contentsline {part}{V\hspace {1em}13th century}{26}
+\contentsline {section}{\numberline {9.1}}{27}
+\contentsline {subsection}{\numberline {9.1.1}Renaissance}{27}
+\contentsline {part}{VI\hspace {1em}14th century}{28}
+\contentsline {chapter}{\numberline {10}1300}{29}
+\contentsline {section}{\numberline {10.1}}{29}
+\contentsline {subsection}{\numberline {10.1.1}Bubonic Plague pandemic}{29}
+\contentsline {part}{VII\hspace {1em}15th century}{30}
+\contentsline {chapter}{\numberline {11}1453}{31}
+\contentsline {section}{\numberline {11.1}May 29}{31}
+\contentsline {subsection}{\numberline {11.1.1}The Fall of Constantinople}{31}
+\contentsline {chapter}{\numberline {12}1492}{32}
+\contentsline {section}{\numberline {12.1}December 26}{32}
+\contentsline {subsection}{\numberline {12.1.1}1st Spanish settlement La Navidad in the New World}{32}
+\contentsline {part}{VIII\hspace {1em}16th century}{33}
+\contentsline {chapter}{\numberline {13}1543}{34}
+\contentsline {section}{\numberline {13.1}}{34}
+\contentsline {subsection}{\numberline {13.1.1}Modern scientific revolution}{34}
+\contentsline {part}{IX\hspace {1em}17th century}{35}
+\contentsline {chapter}{\numberline {14}1643}{36}
+\contentsline {section}{\numberline {14.1}January 04}{36}
+\contentsline {subsection}{\numberline {14.1.1}Birth of Sir Isaac Newton}{36}
+\contentsline {part}{X\hspace {1em}18th century}{37}
+\contentsline {chapter}{\numberline {15}1760}{38}
+\contentsline {section}{\numberline {15.1}}{38}
+\contentsline {subsection}{\numberline {15.1.1}industrial revolution}{38}
+\contentsline {chapter}{\numberline {16}1766}{39}
+\contentsline {section}{\numberline {16.1}December 25}{39}
+\contentsline {subsection}{\numberline {16.1.1}George Washington's crossing of the Delaware River}{39}
+\contentsline {part}{XI\hspace {1em}19th century}{40}
+\contentsline {chapter}{\numberline {17}1821}{41}
+\contentsline {section}{\numberline {17.1}December 25}{41}
+\contentsline {subsection}{\numberline {17.1.1}Birth of Clara Harlowe Barton}{41}
+\contentsline {chapter}{\numberline {18}Mid 19th century}{42}
+\contentsline {section}{\numberline {18.1}}{42}
+\contentsline {subsection}{\numberline {18.1.1}Bubonic Plague pandemic}{42}
+\contentsline {chapter}{\numberline {19}1879}{43}
+\contentsline {section}{\numberline {19.1}March 14}{43}
+\contentsline {subsection}{\numberline {19.1.1}Birth of Albert Einstein}{43}
+\contentsline {chapter}{\numberline {20}1887}{44}
+\contentsline {section}{\numberline {20.1}January 28}{44}
+\contentsline {subsection}{\numberline {20.1.1}Construction of the Eiffel Tower begins}{44}
+\contentsline {chapter}{\numberline {21}1889}{45}
+\contentsline {section}{\numberline {21.1}September 23}{45}
+\contentsline {subsection}{\numberline {21.1.1}Nintendo is founded}{45}
+\contentsline {chapter}{\numberline {22}1892}{46}
+\contentsline {section}{\numberline {22.1}January 3}{46}
+\contentsline {subsection}{\numberline {22.1.1}Birth of J.R.R Tolkien}{46}
+\contentsline {part}{XII\hspace {1em}20th Century}{47}
+\contentsline {chapter}{\numberline {23}Year 1903}{48}
+\contentsline {section}{\numberline {23.1}December 17}{48}
+\contentsline {subsection}{\numberline {23.1.1}Invetion of flight}{48}
+\contentsline {chapter}{\numberline {24}Year 1907}{49}
+\contentsline {section}{\numberline {24.1}August 31}{49}
+\contentsline {subsection}{\numberline {24.1.1}The Triple Entente is created}{49}
+\contentsline {chapter}{\numberline {25}1914}{50}
+\contentsline {section}{\numberline {25.1}June 28}{50}
+\contentsline {subsection}{\numberline {25.1.1}Assassination of Franz Ferdinand}{50}
+\contentsline {section}{\numberline {25.2}July 28}{51}
+\contentsline {subsection}{\numberline {25.2.1}Austria-Hungary declares war on Serbia (World War I begins)}{51}
+\contentsline {section}{\numberline {25.3}July 31}{51}
+\contentsline {subsection}{\numberline {25.3.1}Russia mobilizes its army in defense of Serbia}{51}
+\contentsline {section}{\numberline {25.4}August 01-03}{52}
+\contentsline {subsection}{\numberline {25.4.1}Germany declares war on Russia and France}{52}
+\contentsline {section}{\numberline {25.5}August 04}{53}
+\contentsline {subsection}{\numberline {25.5.1}Germany invades neutral Belgium}{53}
+\contentsline {section}{\numberline {25.6}August 05}{54}
+\contentsline {subsection}{\numberline {25.6.1}Battle of Li\IeC {\`e}ge}{54}
+\contentsline {section}{\numberline {25.7}August 15-24}{55}
+\contentsline {subsection}{\numberline {25.7.1}Battle of Cer}{55}
+\contentsline {section}{\numberline {25.8}August-September}{56}
+\contentsline {subsection}{\numberline {25.8.1}Battle of Galicia}{56}
+\contentsline {subsection}{\numberline {25.8.2}Battle of Frontiers}{57}
+\contentsline {section}{\numberline {25.9}December 25}{58}
+\contentsline {subsection}{\numberline {25.9.1}The Christmas truce}{58}
+\contentsline {chapter}{\numberline {26}1918}{59}
+\contentsline {section}{\numberline {26.1}November 11}{59}
+\contentsline {subsection}{\numberline {26.1.1}World War I ends}{59}
+\contentsline {section}{\numberline {26.2}October 29}{59}
+\contentsline {subsection}{\numberline {26.2.1}The German Revolution}{59}
+\contentsline {chapter}{\numberline {27}1929}{60}
+\contentsline {section}{\numberline {27.1}October 24 "Black Thursday"}{60}
+\contentsline {subsection}{\numberline {27.1.1}The Wall Street Crash}{60}
+\contentsline {chapter}{\numberline {28}1933}{61}
+\contentsline {section}{\numberline {28.1}December 26}{61}
+\contentsline {subsection}{\numberline {28.1.1}Nissan if founded}{61}
+\contentsline {chapter}{\numberline {29}1939}{62}
+\contentsline {section}{\numberline {29.1}September 1}{62}
+\contentsline {subsection}{\numberline {29.1.1}World War II begins}{62}
+\contentsline {chapter}{\numberline {30}1940}{63}
+\contentsline {section}{\numberline {30.1}May 15}{63}
+\contentsline {subsection}{\numberline {30.1.1}McDonald's is founded \footnote {Movie/Documentary: The Founder (2016)}}{63}
+\contentsline {chapter}{\numberline {31}1942}{64}
+\contentsline {section}{\numberline {31.1}January 8}{64}
+\contentsline {subsection}{\numberline {31.1.1}Birth of Stephen Hawking}{64}
+\contentsline {chapter}{\numberline {32}1945}{65}
+\contentsline {section}{\numberline {32.1}September 2}{65}
+\contentsline {subsection}{\numberline {32.1.1}World War II ends}{65}
+\contentsline {chapter}{\numberline {33}1946}{66}
+\contentsline {section}{\numberline {33.1}May 7}{66}
+\contentsline {subsection}{\numberline {33.1.1}Sony is founded}{66}
+\contentsline {chapter}{\numberline {34}1947}{67}
+\contentsline {section}{\numberline {34.1}August 14}{67}
+\contentsline {subsection}{\numberline {34.1.1}The birth of Pakistan \footnote {Movie/Documentary: Gandhi (1982)}}{67}
+\contentsline {section}{\numberline {34.2}August 15}{68}
+\contentsline {subsection}{\numberline {34.2.1}Independence of India \footnote {Movie/Documentary: Gandhi (1982)}}{68}
+\contentsline {chapter}{\numberline {35}1948}{69}
+\contentsline {section}{\numberline {35.1}January 30}{69}
+\contentsline {subsection}{\numberline {35.1.1}Assassination of Mahatma Gandhi\footnote {Movie/Documentary: Gandhi (1982)}}{69}
+\contentsline {chapter}{\numberline {36}1954}{70}
+\contentsline {section}{\numberline {36.1}July 29}{70}
+\contentsline {subsection}{\numberline {36.1.1}"LOTR: The Fellowship of the Ring"\footnote {The Lord of the Rings: The Fellowship of the Ring (2001)} published}{70}
+\contentsline {chapter}{\numberline {37}1957}{71}
+\contentsline {section}{\numberline {37.1}}{71}
+\contentsline {subsection}{\numberline {37.1.1}The beginning of space age}{71}
+\contentsline {chapter}{\numberline {38}1962}{72}
+\contentsline {section}{\numberline {38.1}November 3}{72}
+\contentsline {subsection}{\numberline {38.1.1}Birth of Gabe Newell}{72}
+\contentsline {chapter}{\numberline {39}1969}{73}
+\contentsline {section}{\numberline {39.1}July 20}{73}
+\contentsline {subsection}{\numberline {39.1.1}Landing on The Moon (Apollo 11)}{73}
+\contentsline {chapter}{\numberline {40}1975}{74}
+\contentsline {section}{\numberline {40.1}November}{74}
+\contentsline {subsection}{\numberline {40.1.1}Moroccan Green March}{74}
+\contentsline {chapter}{\numberline {41}1977}{75}
+\contentsline {section}{\numberline {41.1}August 20 to September 05}{75}
+\contentsline {subsection}{\numberline {41.1.1}Beginning of the Voyager program \footnote {Documentary: The Farthest (2017)}}{75}
+\contentsline {chapter}{\numberline {42}1979}{76}
+\contentsline {section}{\numberline {42.1}December 25}{76}
+\contentsline {subsection}{\numberline {42.1.1}Egypt begins major restoration of the Sphinx}{76}
+\contentsline {chapter}{\numberline {43}1983}{77}
+\contentsline {section}{\numberline {43.1}November 10}{77}
+\contentsline {subsection}{\numberline {43.1.1}Windows announced}{77}
+\contentsline {chapter}{\numberline {44}1986}{78}
+\contentsline {section}{\numberline {44.1}April 25-26}{78}
+\contentsline {subsection}{\numberline {44.1.1}Chernobyl disaster}{78}
+\contentsline {chapter}{\numberline {45}1989}{79}
+\contentsline {section}{\numberline {45.1}November 09}{79}
+\contentsline {subsection}{\numberline {45.1.1}Fall of the Berlin Wall}{79}
+\contentsline {section}{\numberline {45.2}?}{80}
+\contentsline {subsection}{\numberline {45.2.1}Tim Berners-Lee invents the World Wide Web \footnote {Lo and Behold: Reveries of the Connected World (2016)}}{80}
+\contentsline {chapter}{\numberline {46}1990}{81}
+\contentsline {section}{\numberline {46.1}April 24}{81}
+\contentsline {subsection}{\numberline {46.1.1}Launch of the Hubble Space Telescope}{81}
+\contentsline {section}{\numberline {46.2}August 2}{82}
+\contentsline {subsection}{\numberline {46.2.1}Invasion of Kuwait}{82}
+\contentsline {chapter}{\numberline {47}1991}{83}
+\contentsline {section}{\numberline {47.1}August 06}{83}
+\contentsline {subsection}{\numberline {47.1.1}First Website is put online and available to the public}{83}
+\contentsline {section}{\numberline {47.2}December 26}{83}
+\contentsline {subsection}{\numberline {47.2.1}Dissolution of the Soviet Union}{83}
+\contentsline {chapter}{\numberline {48}1992}{84}
+\contentsline {section}{\numberline {48.1}February 07}{84}
+\contentsline {subsection}{\numberline {48.1.1}Maastricht Treaty creates the European Union}{84}
+\contentsline {section}{\numberline {48.2}February 22}{85}
+\contentsline {subsection}{\numberline {48.2.1}The first extra-solar planet is confirmed}{85}
+\contentsline {chapter}{\numberline {49}1994}{86}
+\contentsline {section}{\numberline {49.1}March 10}{86}
+\contentsline {subsection}{\numberline {49.1.1}Election of Nelson Mandela}{86}
+\contentsline {chapter}{\numberline {50}1995}{87}
+\contentsline {section}{\numberline {50.1}August 16}{87}
+\contentsline {subsection}{\numberline {50.1.1}First release of Internet Explorer}{87}
+\contentsline {chapter}{\numberline {51}1996}{88}
+\contentsline {section}{\numberline {51.1}July 05}{88}
+\contentsline {subsection}{\numberline {51.1.1}The first successful cloned mammal: Dolly the sheep}{88}
+\contentsline {section}{\numberline {51.2}August 24}{89}
+\contentsline {subsection}{\numberline {51.2.1}Valve Corp. is founded}{89}
+\contentsline {chapter}{\numberline {52}1998}{90}
+\contentsline {section}{\numberline {52.1}September 04}{90}
+\contentsline {subsection}{\numberline {52.1.1}Google is founded by Larry Page and Sergey Brin}{90}
+\contentsline {section}{\numberline {52.2}November 20}{91}
+\contentsline {subsection}{\numberline {52.2.1}Construction of the ISS begins}{91}
+\contentsline {part}{XIII\hspace {1em}21st century}{92}
+\contentsline {chapter}{\numberline {53}2000}{93}
+\contentsline {section}{\numberline {53.1}January 01}{93}
+\contentsline {subsection}{\numberline {53.1.1}Beginning of the 3rd millennium}{93}
+\contentsline {chapter}{\numberline {54}2001}{94}
+\contentsline {section}{\numberline {54.1}January 15}{94}
+\contentsline {subsection}{\numberline {54.1.1}Wikipedia is founded}{94}
+\contentsline {section}{\numberline {54.2}September 11}{95}
+\contentsline {subsection}{\numberline {54.2.1}9-11 Attacks}{95}
+\contentsline {section}{\numberline {54.3}November 15}{96}
+\contentsline {subsection}{\numberline {54.3.1}Xbox Introduced}{96}
+\contentsline {chapter}{\numberline {55}2002}{97}
+\contentsline {section}{\numberline {55.1}January 01}{97}
+\contentsline {subsection}{\numberline {55.1.1}The Euro is introduced within the EU}{97}
+\contentsline {chapter}{\numberline {56}2003}{98}
+\contentsline {section}{\numberline {56.1}March 20}{98}
+\contentsline {subsection}{\numberline {56.1.1}Beginning of the Iraq war}{98}
+\contentsline {section}{\numberline {56.2}September 11}{99}
+\contentsline {subsection}{\numberline {56.2.1}Steam released}{99}
+\contentsline {chapter}{\numberline {57}2004}{100}
+\contentsline {section}{\numberline {57.1}February 04}{100}
+\contentsline {subsection}{\numberline {57.1.1}Facebook is founded}{100}
+\contentsline {section}{\numberline {57.2}December 26}{101}
+\contentsline {subsection}{\numberline {57.2.1}Indian Ocean earthquake and tsunami}{101}
+\contentsline {chapter}{\numberline {58}2005}{102}
+\contentsline {section}{\numberline {58.1}February}{102}
+\contentsline {subsection}{\numberline {58.1.1}YouTube is founded}{102}
+\contentsline {section}{\numberline {58.2}August}{103}
+\contentsline {subsection}{\numberline {58.2.1}Hurricane Katrina}{103}
+\contentsline {chapter}{\numberline {59}2006}{104}
+\contentsline {section}{\numberline {59.1}March 21}{104}
+\contentsline {subsection}{\numberline {59.1.1}Twitter is founded}{104}
+\contentsline {chapter}{\numberline {60}2007}{105}
+\contentsline {section}{\numberline {60.1}June 29}{105}
+\contentsline {subsection}{\numberline {60.1.1}iPhone is released}{105}
+\contentsline {chapter}{\numberline {61}2008}{106}
+\contentsline {section}{\numberline {61.1}September 15}{106}
+\contentsline {subsection}{\numberline {61.1.1}2008 Financial Crisis}{106}
+\contentsline {chapter}{\numberline {62}2009}{107}
+\contentsline {section}{\numberline {62.1}January 20}{107}
+\contentsline {subsection}{\numberline {62.1.1}Inauguration of Barack Obama}{107}
+\contentsline {section}{\numberline {62.2}October 01}{108}
+\contentsline {subsection}{\numberline {62.2.1}Burj Khalifa completed}{108}
+\contentsline {chapter}{\numberline {63}2011}{109}
+\contentsline {section}{\numberline {63.1}June}{109}
+\contentsline {subsection}{\numberline {63.1.1}Twitch is founded}{109}
+\contentsline {chapter}{\numberline {64}2012}{110}
+\contentsline {section}{\numberline {64.1}August 06}{110}
+\contentsline {subsection}{\numberline {64.1.1}Curiosity Rover lands on Mars}{110}
+\contentsline {chapter}{\numberline {65}2013}{111}
+\contentsline {section}{\numberline {65.1}September 14}{111}
+\contentsline {subsection}{\numberline {65.1.1}Voyager 1 is the first probe to exit the Solar-System}{111}
+\contentsline {chapter}{\numberline {66}2018}{112}
+\contentsline {section}{\numberline {66.1}March 14}{112}
+\contentsline {subsection}{\numberline {66.1.1}Death of Stephen Hawking}{112}
+\contentsline {section}{\numberline {66.2}May 29}{112}
+\contentsline {subsection}{\numberline {66.2.1}Death of Ali Banat}{112}
