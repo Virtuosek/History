@@ -32,12 +32,12 @@ By Virtuosek.\\ \vspace{5cm}
 \part{Prehuman}
 \chapter{13.6 Billion years ago}
 \section{Formation of the Milky Way}
-\vspace{2mm}\begin{center}\includegraphics[width=9cm]{./img/milkyway.jpg}\end{center}
-The Milky Way began as one or several small overdensities in the mass distribution in the Universe shortly after the Big Bang. Some of these overdensities were the seeds of globular clusters in which the oldest remaining stars in what is now the Milky Way formed. Nearly half the matter in the Milky Way may have come from other distant galaxies. Nonetheless, these stars and clusters now comprise the stellar halo of the Milky Way. Within a few billion years of the birth of the first stars, the mass of the Milky Way was large enough so that it was spinning relatively quickly. Due to conservation of angular momentum, this led the gaseous interstellar medium to collapse from a roughly spheroidal shape to a disk. Therefore, later generations of stars formed in this spiral disk. Most younger stars, including the Sun, are observed to be in the disk\\
-
+\vspace{2mm}\begin{center}\includegraphics[width=4cm]{./img/milkyway.jpg}\end{center}
+The Milky Way began as one or several small overdensities in the mass distribution in the Universe shortly after the Big Bang. Some of these overdensities were the seeds of globular clusters in which the oldest remaining stars in what is now the Milky Way formed. Nearly half the matter in the Milky Way may have come from other distant galaxies. Nonetheless, these stars and clusters now comprise the stellar halo of the Milky Way. Within a few billion years of the birth of the first stars, the mass of the Milky Way was large enough so that it was spinning relatively quickly. Due to conservation of angular momentum, this led the gaseous interstellar medium to collapse from a roughly spheroidal shape to a disk. Therefore, later generations of stars formed in this spiral disk. Most younger stars, including the Sun, are observed to be in the disk.\\
 Since the first stars began to form, the Milky Way has grown through both galaxy mergers (particularly early in the Milky Way's growth) and accretion of gas directly from the Galactic halo. The Milky Way is currently accreting material from several small galaxies, including two of its largest satellite galaxies, the Large and Small Magellanic Clouds, through the Magellanic Stream. Direct accretion of gas is observed in high-velocity clouds like the Smith Cloud. However, properties of the Milky Way such as stellar mass, angular momentum, and metallicity in its outermost regions suggest it has undergone no mergers with large galaxies in the last 10 billion years. This lack of recent major mergers is unusual among similar spiral galaxies; its neighbor the Andromeda Galaxy appears to have a more typical history shaped by more recent mergers with relatively large galaxies.\\
-
+\begin{comment}
 According to recent studies, the Milky Way as well as the Andromeda Galaxy lie in what in the galaxy color–magnitude diagram is known as the "green valley", a region populated by galaxies in transition from the "blue cloud" (galaxies actively forming new stars) to the "red sequence" (galaxies that lack star formation). Star-formation activity in green valley galaxies is slowing as they run out of star-forming gas in the interstellar medium. In simulated galaxies with similar properties, star formation will typically have been extinguished within about five billion years from now, even accounting for the expected, short-term increase in the rate of star formation due to the collision between both the Milky Way and the Andromeda Galaxy. In fact, measurements of other galaxies similar to the Milky Way suggest it is among the reddest and brightest spiral galaxies that are still forming new stars and it is just slightly bluer than the bluest red sequence galaxies.
+\end{comment}
 
 \chapter{4.54 Billion years ago}
 \section{Formation of planet Earth}
@@ -65,7 +65,7 @@ The Mesoarchean is a geologic era within the Archean Eon, spanning 3,200 to 2,80
 
 \chapter{1.6 Billion years ago}
 \section{Eukaryotic cells appeared}
-\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/eukaryoticCell.jpg}\end{center}
+\vspace{2mm}\begin{center}\includegraphics[width=6cm]{./img/eukaryoticCell.jpg}\end{center}
 Eukaryotes are organisms whose cells have a nucleus enclosed within membranes, unlike prokaryotes (Bacteria and Archaea). Eukaryotic cells also contain other membrane-bound organelles such as mitochondria and the Golgi apparatus, and in addition, some cells of plants and algae contain chloroplasts. Unlike unicellular archaea and bacteria, eukaryotes may also be multicellular and include organisms consisting of many cell types forming different kinds of tissue. Animals and plants are the most familiar eukaryotes.
 
 Eukaryotes can reproduce both asexually through mitosis and sexually through meiosis and gamete fusion. In mitosis, one cell divides to produce two genetically identical cells. In meiosis, DNA replication is followed by two rounds of cell division to produce four haploid daughter cells. These act as sex cells (gametes). Each gamete has just one set of chromosomes, each a unique mix of the corresponding pair of parental chromosomes resulting from genetic recombination during meiosis.
@@ -227,7 +227,7 @@ Also known as the modern pandemic, the third pandemic spread the disease to port
 
 \chapter{1896}
 \section{April 6-15}
-\subsection{1896 Summer Olympics}
+\subsection{First international Olympic Games}
 \vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/olgames.jpg}\end{center}
 The 1896 Summer Olympics officially known as the Games of the I Olympiad, was the first international Olympic Games held in modern history. Organised by the International Olympic Committee (IOC), which had been created by Pierre de Coubertin, it was held in Athens, Greece, from 6 to 15 April 1896.
 
@@ -450,10 +450,20 @@ The Fellowship of the Ring is the first of three volumes of the epic novel The L
 The volume consists of a foreword, in which the author discusses his writing of The Lord of the Rings, a prologue titled "Concerning Hobbits, and other matters", and the main narrative in Book I and Book II.
 
 \chapter{1957}
-\section{}
-\subsection{The beginning of space age}
-\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/spaceage.jpg}\end{center}
-The Space Age is a time period encompassing the activities related to the Space Race, space exploration, space technology, and the cultural developments influenced by these events. The Space Age is generally considered to have begun with Sputnik (1957).
+\section{October 4}
+\subsection{Launch of Sputnik 1 (The beginning of space age)}
+\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/sputnik1.jpg}\end{center}
+Sputnik 1 was the first artificial Earth satellite.[6] The Soviet Union launched it into an elliptical low Earth orbit on 4 October 1957, orbiting for three weeks before its batteries died, then silently for two more months before falling back into the atmosphere. It was a 58 cm (23 in) diameter polished metal sphere, with four external radio antennas to broadcast radio pulses. Its radio signal was easily detectable even by radio amateurs,[7] and the 65 degrees inclination and duration of its orbit made its flight path cover virtually the entire inhabited Earth. This surprise success precipitated the American Sputnik crisis and triggered the Space Race, a part of the Cold War. The launch ushered in new political, military, technological, and scientific developments.[8][9]
+
+Tracking and studying Sputnik 1 from Earth provided scientists with valuable information. The density of the upper atmosphere could be deduced from its drag on the orbit, and the propagation of its radio signals gave data about the ionosphere.
+
+\chapter{1958}
+\section{July 29}
+\subsection{NASA if formed}
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/nasa1stlogo.jpg}\end{center}
+NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics (NACA). The new agency was to have a distinctly civilian orientation, encouraging peaceful applications in space science. Since its establishment, most US space exploration efforts have been led by NASA, including the Apollo Moon landing missions, the Skylab space station, and later the Space Shuttle. NASA is supporting the International Space Station and is overseeing the development of the Orion Multi-Purpose Crew Vehicle, the Space Launch System and Commercial Crew vehicles. The agency is also responsible for the Launch Services Program which provides oversight of launch operations and countdown management for unmanned NASA launches.
+
+NASA science is focused on better understanding Earth through the Earth Observing System; advancing heliophysics through the efforts of the Science Mission Directorate's Heliophysics Research Program; exploring bodies throughout the Solar System with advanced robotic spacecraft missions such as New Horizons; and researching astrophysics topics, such as the Big Bang, through the Great Observatories and associated programs
 
 \chapter{1962}
 \section{November 3}
@@ -470,6 +480,11 @@ During his time at Microsoft, Newell, along with fellow co-worker Mike Harringto
 Apollo 11 was the spaceflight that landed the first two people on the Moon. Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin, both American, landed the lunar module Eagle on July 20, 1969, at 20:17 UTC. Armstrong became the first person to step onto the lunar surface six hours after landing on July 21 at 02:56:15 UTC; Aldrin joined him about 20 minutes later. They spent about two and a quarter hours together outside the spacecraft, and collected 47.5 pounds (21.5 kg) of lunar material to bring back to Earth. Command Module Pilot Michael Collins piloted the command module Columbia alone in lunar orbit while they were on the Moon's surface. Armstrong and Aldrin spent 21.5 hours on the lunar surface before rejoining Columbia in lunar orbit.
 
 \chapter{1975}
+\section{April 4}
+\subsection{Microsoft is founded}
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/microsoft1stlogo.jpg}\end{center}
+Childhood friends Bill Gates and Paul Allen sought to make a business utilizing their shared skills in computer programming. In 1972 they founded their first company, named Traf-O-Data, which sold a rudimentary computer to track and analyze automobile traffic data. While Gates enrolled at Harvard, Allen pursued a degree in computer science at Washington State University, though he later dropped out of school to work at Honeywell. The January 1975 issue of Popular Electronics featured Micro Instrumentation and Telemetry Systems's (MITS) Altair 8800 microcomputer, which inspired Allen to suggest that they could program a BASIC interpreter for the device. After a call from Gates claiming to have a working interpreter, MITS requested a demonstration. Since they didn't yet have one, Allen worked on a simulator for the Altair while Gates developed the interpreter. Although they developed the interpreter on a simulator and not the actual device, it worked flawlessly when they (in March 1975) demonstrated the interpreter to MITS in Albuquerque, New Mexico. MITS agreed to distribute it, marketing it as Altair BASIC. Gates and Allen officially established Microsoft on April 4, 1975, with Gates as the CEO. The original name of "Micro-Soft" was suggested by Allen. In August 1977 the company formed an agreement with ASCII Magazine in Japan, resulting in its first international office, "ASCII Microsoft". Microsoft moved to a new home in Bellevue, Washington in January 1979.
+
 \section{November}
 \subsection{Moroccan Green March}
 \vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/greenmarch.jpg}\end{center}
@@ -552,11 +567,12 @@ The Maastricht Treaty (officially the Treaty on European Union) was signed on 7 
 The first suspected scientific detection of an exoplanet occurred in 1988. Shortly afterwards, the first confirmed detection came in 1992, with the discovery of several terrestrial-mass planets orbiting the pulsar PSR B1257+12
 
 \chapter{1994}
-\section{March 10}
+\section{April 26-29}
 \subsection{Election of Nelson Mandela}
 \vspace{2mm}\begin{center}\includegraphics[width=4cm]{./img/mandela.jpg}\end{center}
-The African National Congress won 62\% of the votes in the election, and Mandela, as leader of the ANC, was inaugurated on 10 May 1994 as the country's first black President, with the National Party's F.W. de Klerk as his first deputy and Thabo Mbeki as the second in the Government of National Unity.
+General elections were held in South Africa between 26 and 29 April 1994. The elections were the first in which citizens of all races were allowed to take part, and were therefore also the first held with universal adult suffrage. The election was conducted under the direction of the Independent Electoral Commission (IEC), and marked the culmination of the four-year process that ended apartheid.
 
+Millions queued in lines over a four-day voting period. Altogether 19,726,579 votes were counted and 193,081 were rejected as invalid. As widely expected, the African National Congress (ANC), whose slate incorporated the labour confederation COSATU and the South African Communist Party, won a sweeping victory, taking 62 percent of the vote, just short of the two-thirds majority required to unilaterally amend the Interim Constitution. As required by that document, the ANC formed a Government of National Unity with the National Party and the Inkatha Freedom Party, the two other parties that won more than 20 seats in the National Assembly. The new National Assembly's first act was to elect Nelson Mandela as President, making him the country's first black chief executive
 \section{July 5}
 \subsection{Amazon is founded}
 \vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/amazon.jpg}\end{center}
@@ -565,10 +581,20 @@ Amazon.com, Inc., doing business as Amazon, is a multinational technology compan
 Amazon is the most valuable public company in the world ahead of Apple and Alphabet. It is the largest e-commerce marketplace and cloud computing platform in the world as measured by revenue and market capitalization. Amazon.com was founded by Jeff Bezos on July 5, 1994, and started as an online bookstore but later diversified to sell video downloads/streaming, MP3 downloads/streaming, audiobook downloads/streaming, software, video games, electronics, apparel, furniture, food, toys, and jewelry. The company also owns a publishing arm, Amazon Publishing, a film and television studio, Amazon Studios, produces consumer electronics lines including Kindle e-readers, Fire tablets, Fire TV, and Echo devices, and is the world's largest provider of cloud infrastructure services (IaaS and PaaS) through its AWS subsidiary. Amazon has separate retail websites for some countries and also offers international shipping of some of its products to certain other countries. 100 million people subscribe to Amazon Prime.
 
 \chapter{1995}
+\section{March 28 - April 7}
+\subsection{First Conference of the Parties (COP 1)}
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/coplogo.png}\end{center}
+The United Nations Climate Change Conferences are yearly conferences held in the framework of the United Nations Framework Convention on Climate Change (UNFCCC). They serve as the formal meeting of the UNFCCC Parties (Conference of the Parties, COP) to assess progress in dealing with climate change, and beginning in the mid-1990s, to negotiate the Kyoto Protocol to establish legally binding obligations for developed countries to reduce their greenhouse gas emissions. From 2005 the Conferences have also served as the "Conference of the Parties Serving as the Meeting of Parties to the Kyoto Protocol" (CMP); also parties to the Convention that are not parties to the Protocol can participate in Protocol-related meetings as observers. From 2011 the meetings have also been used to negotiate the Paris Agreement as part of the Durban platform activities until its conclusion in 2015, which created a general path towards climate action.\\
+
+The first UNFCCC Conference of the Parties took place from 28 March to 7 April 1995 in Berlin, Germany. It voiced concerns about the adequacy of countries' abilities to meet commitments under the Body for Scientific and Technological Advice (BSTA) and the Subsidiary Body for Implementation (SBI). COP 1 agreed on "Activities Implemented Jointly", first joint measures in international climate action.
+
 \section{August 16}
 \subsection{First release of Internet Explorer}
-\vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/internetExplorer.jpg}\end{center}
-Microsoft originally released Internet Explorer 1.0 in August 1995 in two packages: at retail in Microsoft Plus!
+\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/internetExplorer.jpg}\end{center}
+Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly referred to as Explorer and abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.\\
+
+The first version, dubbed Microsoft Internet Explorer, made its debut on August 16, 1995. It was installed as part of the Internet Jumpstart Kit in Microsoft Plus! for Windows 95 and Plus!. The Internet Explorer team began with about six people in early development. Internet Explorer 1.5 was released several months later for Windows NT and added support for basic table rendering. By including it free of charge on their operating system, they did not have to pay royalties to Spyglass Inc, resulting in a lawsuit and a US\$8 million settlement on January 22, 1997.
+Microsoft was sued by Synet Inc. in 1996, over the trademark infringement
 
 \chapter{1996}
 \section{July 05}
@@ -592,9 +618,9 @@ Valve was founded in 1996 by former Microsoft employees Gabe Newell and Mike Har
 The Google company was officially launched in 1998 by Larry Page and Sergey Brin to market Google Search, which has become the most widely used web-based search engine. Page and Brin, students at Stanford University in California, developed a search algorithm – at first known as "BackRub" – in 1996. The search engine soon proved successful and the expanding company moved several times, finally settling at Mountain View in 2003. This marked a phase of rapid growth, with the company making its initial public offering in 2004 and quickly becoming one of the world's largest media companies. The company launched Google News in 2002, Gmail in 2004, Google Maps in 2005, Google Chrome in 2008, and the social network known as Google+ in 2011, in addition to many other products. In 2015, Google became the main subsidiary of the holding company Alphabet Inc.
 
 \section{November 20}
-\subsection{Construction of the ISS begins}
-\vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/iss.jpg}\end{center}
-Zarya, the first ISS module, was launched by a Proton rocket on November 20, 1998. The STS-88 shuttle mission followed two weeks after Zarya was launched, bringing Unity, the first of three node modules, and connecting it to Zarya.
+\subsection{Zarya launched (first ISS module)}
+\vspace{2mm}\begin{center}\includegraphics[width=9cm]{./img/zarya.jpg}\end{center}
+Zarya, also known as the Functional Cargo Block or FGB, is the first module of the International Space Station to be launched. The FGB provided electrical power, storage, propulsion, and guidance to the ISS during the initial stage of assembly. With the launch and assembly in orbit of other modules with more specialized functionality, Zarya is now primarily used for storage, both inside the pressurized section and in the externally mounted fuel tanks. The Zarya is a descendant of the TKS spacecraft designed for the Russian Salyut program. The name Zarya, which means sunrise, was given to the FGB because it signified the dawn of a new era of international cooperation in space. Although it was built by a Russian company, it is owned by the United States.
 
 
 								% 21ST CENTURY 
@@ -638,7 +664,7 @@ The Iraq War was a protracted armed conflict that began in 2003 with the invasio
 
 \section{September 11}
 \subsection{Steam released}
-\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/steamlogo.jpeg}\end{center}
+\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/1ststeamlogo.png}\end{center}
 Steam is a digital distribution platform developed by Valve Corporation for purchasing and playing video games. Steam offers digital rights management (DRM), matchmaking servers, video streaming, and social networking services. Steam provides the user with installation and automatic updating of games, and community features such as friends lists and groups, cloud saving, and in-game voice and chat functionality.\\
 The software provides a freely available application programming interface (API) called Steamworks, which developers can use to integrate many of Steam's functions into their products, including networking, matchmaking, in-game achievements, microtransactions, and support for user-created content through Steam Workshop. Though initially developed for use on Microsoft Windows operating systems, versions for macOS and Linux were later released. Mobile apps with connected functionality with the main software were later released for iOS, Android, and Windows Phone in the 2010s. The platform also offers a small selection of non-video game content, such as design software, anime, and films.
 
@@ -670,6 +696,13 @@ Hurricane Katrina was an extremely destructive and deadly Category 5 hurricane t
 \subsection{Twitter is founded}
 \vspace{2mm}\begin{center}\includegraphics[width=6cm]{./img/twitter.png}\end{center}
 Twitter is an American online news and social networking service on which users post and interact with messages known as "tweets". Tweets were originally restricted to 140 characters, but on November 7, 2017, this limit was doubled for all languages except Chinese, Japanese, and Korean. Registered users can post, like, and retweet tweets, but unregistered users can only read them. Users access Twitter through its website interface, through Short Message Service (SMS) or its mobile-device application software ("app"). Twitter, Inc. is based in San Francisco, California, and has more than 25 offices around the world.
+
+\section{December 30}
+\subsection{Execution of Saddam Hussein}
+\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/saddamhusseinexec.jpg}\end{center}
+The execution of Saddam Hussein took place on Saturday, 30 December 2006. Saddam was sentenced to death by hanging, after being convicted of crimes against humanity by the Iraqi Special Tribunal for the murder of 148 Iraqi Shi'ites in the town of Dujail in 1982, in retaliation for an assassination attempt against him.
+
+The Iraqi government released an official videotape of his execution, showing him being led to the gallows, and ending after his head was in the hangman's noose. International public controversy arose when a mobile phone recording of the hanging showed him surrounded by a contingent of his countrymen who jeered him in Arabic and praised the Shia cleric Muqtada al-Sadr, and his subsequent fall through the trap door of the gallows. The atmosphere of the execution drew criticism around the world from nations that oppose as well as support capital punishment. On Sunday 31 December 2006, Saddam Hussein's body was returned to his birthplace of Al-Awja, near Tikrit, and was buried near the graves of other family members.
 
 \chapter{2007}
 \section{June 29}
