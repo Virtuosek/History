@@ -4,32 +4,34 @@
 \usepackage[super]{nth}
 \usepackage{graphicx}
 \usepackage{comment}
+\usepackage[bookmarks]{hyperref}
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]   
 {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}   
 \titlespacing*{\chapter}{0pt}{-50pt}{40pt}
-
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}{}{0pt}{\Huge}
+\titlespacing*{\chapter}
+  {0pt}{-50pt}{40pt}
+  
 \begin{document}
 
 \begin{center}
 \vspace*{\fill}
-This document presents historical events known to mankind and eventually provides a reference to a documentary or movie describing the event.\\
+This document presents historical events known to mankind and occasionally provides a reference to a documentary or movie describing the event.\\
+\vspace{5mm}
+It is recommended that you use a PDF reader that displays the index for easier browsing.\\
+\vspace{1cm}
 By Virtuosek.\\ \vspace{5cm}
 \end{center}
 
 \vspace*{\fill}
-\pagebreak
+\thispagestyle{empty}
+\clearpage
+\setcounter{page}{1}
 
-\tableofcontents
-\pagebreak
-\setcounter{secnumdepth}{5}
-
-										%Prehuman Era
-										
-		
-
-\part{Prehuman}
+\part{Billions of years ago}
 \chapter{13.6 Billion years ago}
 \section{Formation of the Milky Way}
 \vspace{2mm}\begin{center}\includegraphics[width=4cm]{./img/milkyway.jpg}\end{center}
@@ -277,7 +279,7 @@ Winners were given a silver medal, while runners-up received a copper medal. Ret
 										
 			
 \part{20th Century}
-\chapter{Year 1903}
+\chapter{1903}
 \section{June 16}
 \subsection{Ford is founded}
 \vspace{2mm}\begin{center}\includegraphics[width=7cm]{./img/fordfirstlogo.png}\end{center}
@@ -289,10 +291,10 @@ Henry Ford's first attempt at a car company under his own name was the Henry For
 \vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/firstflight.jpg}\end{center}
 In camp at Kill Devil Hills, they endured weeks of delays caused by broken propeller shafts during engine tests. After the shafts were replaced (requiring two trips back to Dayton), Wilbur won a coin toss and made a three-second flight attempt on December 14, 1903, stalling after takeoff and causing minor damage to the Flyer. (Because December 13, 1903, was a Sunday, the brothers did not make any attempts that day, even though the weather was good, so their first powered test flight happened on the 121st anniversary of the first test flight that the Montgolfier brothers had done, on December 14, 1782.) In a message to their family, Wilbur referred to the trial as having "only partial success", stating "the power is ample, and but for a trifling error due to lack of experience with this machine and this method of starting, the machine would undoubtedly have flown beautifully." Following repairs, the Wrights finally took to the air on December 17, 1903, making two flights each from level ground into a freezing headwind gusting to 27 miles per hour (43 km/h). The first flight, by Orville at 10:35 am, of 120 feet (37 m) in 12 seconds, at a speed of only 6.8 miles per hour (10.9 km/h) over the ground, was recorded in a famous photograph. The next two flights covered approximately 175 and 200 feet (53 and 61 m), by Wilbur and Orville respectively. Their altitude was about 10 feet (3.0 m) above the ground. The following is Orville Wright's account of the final flight of the day:
 
-\chapter{Year 1907}
+\chapter{1907}
 \section{August 31}
 \subsection{The Triple Entente is created}
-\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/tripleEntente.png}\end{center}
+\vspace{2mm}\begin{center}\includegraphics[width=7cm]{./img/tripleEntente.png}\end{center}
 The Triple Entente refers to the understanding linking the Russian Empire, the French Third Republic, and United Kingdom of Great Britain and Ireland after the signing of the Anglo-Russian Entente on 31 August 1907. The understanding between the three powers, supplemented by agreements with Japan and Portugal, was a powerful counterweight to the Triple Alliance of Germany, Austria-Hungary, and Italy.
 
 However, Italy did not side with Germany and Austria during World War I and joined the Entente instead in the Treaty of London (1915).
@@ -368,55 +370,126 @@ The Battle of the Frontiers (Dutch: Slag der Grenzen; French: Bataille des Front
 The Christmas truce occurred during the relatively early period of the war (month 5 of 51). Hostilities had entered somewhat of a lull as leadership on both sides reconsidered their strategies following the stalemate of the Race to the Sea and the indecisive result of the First Battle of Ypres. In the week leading up to the 25th, French, German, and British soldiers crossed trenches to exchange seasonal greetings and talk. In some areas, men from both sides ventured into no man's land on Christmas Eve and Christmas Day to mingle and exchange food and souvenirs. There were joint burial ceremonies and prisoner swaps, while several meetings ended in carol-singing. Men played games of football with one another, giving one of the most memorable images of the truce. Peaceful behavior was not ubiquitous; fighting continued in some sectors, while in others the sides settled on little more than arrangements to recover bodies.
 
 \chapter{1917}
-\section{February 23 - March 03}
-\subsection{Russian Revolution (February)}
-\section{October 25-26}
-\subsection{Russian Revolution (October)}
+\section{March 08}
+\subsection{Russian February Revolution}
+\vspace{2mm}\begin{center}\includegraphics[width=7cm]{./img/febRusRev.jpg}\end{center}
+The February Revolution, known in Soviet historiography as the February Bourgeois Democratic Revolution, was the first of two revolutions which took place in Russia in 1917.
 
+The main events of the revolution took place in and near Petrograd (present-day St. Petersburg), the then-capital of Russia, where long-standing discontent with the monarchy erupted into mass protests against food rationing on 23 February Old Style (8 March New Style). Revolutionary activity lasted about eight days, involving mass demonstrations and violent armed clashes with police and gendarmes, the last loyal forces of the Russian monarchy. On 27 February O.S. (12 March N.S.) mutinous Russian Army forces sided with the revolutionaries. Three days later Tsar Nicholas II abdicated, ending Romanov dynastic rule and the Russian Empire. A Russian Provisional Government under Prince Georgy Lvov replaced the Council of Ministers of Russia.
 
 \chapter{1918}
 \section{January}
 \subsection{Spanish flu}
+\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/spanishFlu.jpg}\end{center}
+The 1918 influenza pandemic (January 1918 – December 1920; colloquially known as Spanish flu) was an unusually deadly influenza pandemic, the first of the two pandemics involving H1N1 influenza virus. It infected 500 million people around the world, including people on remote Pacific islands and in the Arctic, and resulted in the deaths of 50 to 100 million (three to five percent of the world's population), making it one of the deadliest natural disasters in human history.
 
-\section{November 11}
-\subsection{World War I ends\protect\footnote{Documentary: They Shall Not Grow Old (2018)}}
+Infectious disease already limited life expectancy in the early 20th century. But in the first year of the pandemic, life expectancy in the United States dropped by about 12 years. Most influenza outbreaks disproportionately kill juvenile, elderly, or already weakened patients but the 1918 pandemic predominantly killed previously healthy young adults.
 
+To maintain morale, wartime censors minimized early reports of illness and mortality in Germany, the United Kingdom, France, and the United States. Papers were free to report the epidemic's effects in neutral Spain (such as the grave illness of King Alfonso XIII). This created a false impression of Spain as especially hard hit, thereby giving rise to the pandemic's nickname, "Spanish Flu".
+
+\begin{comment}
 \section{October 29}
 \subsection{The German Revolution}
 \vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/germanRevolution.jpg}\end{center}
-The German Revolution or November Revolution (German: Novemberrevolution) was a civil conflict in the German Empire at the end of the First World War that resulted in the replacement of the German federal constitutional monarchy with a democratic parliamentary republic that later became known as the Weimar Republic. The revolutionary period lasted from November 1918 until the adoption in August 1919 of the Weimar Constitution.
+The German Revolution or November Revolution was a civil conflict in the German Empire at the end of the First World War that resulted in the replacement of the German federal constitutional monarchy with a democratic parliamentary republic that later became known as the Weimar Republic. The revolutionary period lasted from November 1918 until the adoption in August 1919 of the Weimar Constitution.
+\end{comment}
+
+\section{November 11}
+\subsection{World War I ends\protect\footnote{Documentary: They Shall Not Grow Old (2018)}}
+World War One ended at 11am on the eleventh day of the eleventh month, in 1918. Germany signed an armistice (an agreement for peace and no more fighting) that had been prepared by Britain and France.
+
+At the start of 1918, Germany was in a strong position and expected to win the war. Russia had already left the year before which made Germany even stronger.
+Germany launched the 'Michael Offensive' in March 1918, where they pushed Britain far back across the old Somme battlefield. However their plan for a quick victory failed when Britain and France counter-attacked.
+
+Germany and her allies realised it was no longer possible to win the war. The Triple Alliance had been damaged. Some reasons for this included the fact that the Schlieffen Plan had failed in 1914 and the Verdun Offensive had failed in 1916. Germany was now losing the Great Battle in France and the German Navy had gone on strike and refused to carry on fighting. Furthermore, the United States joined the war in April 1917, which gave the Triple Entente greater power.
+
+Germany was not strong enough to continue fighting, especially as the USA had joined the war and hundreds of thousands of fresh American soldiers were arriving in France. This added greater military strength to the Triple Entente forces.
+
+The leaders of the German army told the German government to end the fighting. Kaiser Wilhelm, Germany's leader, abdicated (left his job) on 9 November 1918.
+
+Two days later, Germany signed the armistice and the guns fell silent. People in Britain, France and all of the countries that supported them, celebrated the end of war - a war that had lasted four years and four months. In London, a huge crowd gathered in Trafalgar Square.
 
 \chapter{1919}
 \section{June 28}
 \subsection{Treaty of Versailles}
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/treatyOfVersailles.jpg}\end{center}
+The Treaty of Versailles was the most important of the peace treaties that brought World War I to an end. The Treaty ended the state of war between Germany and the Allied Powers. It was signed on 28 June 1919 in Versailles, exactly five years after the assassination of Archduke Franz Ferdinand, which had directly led to World War I. The other Central Powers on the German side of World War I signed separate treaties. Although the armistice, signed on 11 November 1918, ended the actual fighting, it took six months of Allied negotiations at the Paris Peace Conference to conclude the peace treaty. The treaty was registered by the Secretariat of the League of Nations on 21 October 1919.
+
+\chapter{1922}
+\section{November 04}
+\subsection{The discovery of Tutankhamun}
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/tutankhamon.jpg}\end{center}
+In 1907, Egyptologist and archaeologist Howard Carter was hired by George Herbert, the 5th Earl of Carnarvon to oversee excavations in Egypt’s Valley of the Kings. Carter had built a reputation for scrupulously recording and preserving discoveries.
+Carter searched the valley for years with little to show for it, which drew the ire of his employer. In 1922, Lord Carnarvon told Carter that he had only one more season of digging before his funding would be ended.
+Revisiting a previously abandoned dig site at a group of huts, Carter started digging again, desperate for a breakthrough.
+On Nov. 4, 1922, his crew discovered a step carved into the rock. By the end of the next day, a whole staircase had been uncovered. Carter wired Carnarvon, imploring him to come at once.
+On Nov. 26, with Carnarvon at his side, Carter chipped open a small breach in the corner of the doorway at the end of the stairs.
+The team had discovered the tomb of Tutankhamun, the boy king who ruled Egypt from about 1332 to 1323 BC.
 
 \chapter{1929}
 \section{October 24 (Black Thursday)}
 \subsection{The Wall Street Crash}
-\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/wallStreetCrash.jpg}\end{center}
-The Wall Street Crash of 1929, also known as the Stock Market Crash of 1929 or the Great Crash, is the stock market crash that occurred in late October, 1929. It started on October 24 ("Black Thursday") and continued until October 29, 1929 ("Black Tuesday"), when share prices on the New York Stock Exchange collapsed.
+\vspace{2mm}\begin{center}\includegraphics[width=6cm]{./img/wallStreetCrash.jpg}\end{center}
+The Wall Street Crash of 1929, also known as the Stock Market Crash of 1929 or the Great Crash, is the stock market crash that occurred in late October, 1929. It started on October 24 ("Black Thursday") and continued until October 29, 1929 ("Black Tuesday"), when share prices on the New York Stock Exchange collapsed.\\
+It was the most devastating stock market crash in the history of the United States, when taking into consideration the full extent and duration of its after effects. The crash, which followed the London Stock Exchange's crash of September, signaled the beginning of the 12-year Great Depression that affected all Western industrialized countries
 
 \chapter{1930}
-\section{July 13-30}
-\subsection{FIFA World Cup}
+\section{March 12}
+\subsection{Salt March\protect\footnote{Movie/Documentary: Gandhi (1982)}}
+\vspace{2mm}\begin{center}\includegraphics[width=3cm]{./img/saltMarch.jpg}\end{center}
+The Salt March, also known as the Dandi March and the Dandi Satyagraha, was an act of nonviolent civil disobedience in colonial India led by Mohandas Karamchand Gandhi to produce salt from the seawater in the coastal village of Dandi (now in Gujarat), as was the practice of the local populace until British officials introduced taxation on salt production, deemed their sea-salt reclamation activities illegal, and then repeatedly used force to stop it. The 24-day march lasted from 12 March 1930 to 6 April 1930 as a direct action campaign of tax resistance and nonviolent protest against the British salt monopoly. It gained worldwide attention which gave impetus to the Indian independence movement and started the nationwide Civil Disobedience Movement. Mahatma Gandhi started this march with 78 of his trusted volunteers. Walking ten miles a day for 24 days, the march spanned over 240 miles.
+
+The march was the most significant organised challenge to British authority since the Non-cooperation movement of 1920–22, and directly followed the Purna Swaraj declaration of sovereignty and self-rule by the Indian National Congress on 26 January 1930.
+
+\section{July 13}
+\subsection{First FIFA World Cup}
 \vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/fifa1930.jpg}\end{center}
 The 1930 FIFA World Cup was the inaugural FIFA World Cup, the world championship for men's national association football teams. It took place in Uruguay from 13 to 30 July 1930. FIFA, football's international governing body, selected Uruguay as host nation, as the country would be celebrating the centenary of its first constitution, and the Uruguay national football team had successfully retained their football title at the 1928 Summer Olympics. All matches were played in the Uruguayan capital, Montevideo, the majority at the Estadio Centenario, which was built for the tournament.
 
 \chapter{1933}
 \section{December 26}
-\subsection{Nissan if founded}
-\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/nissan.jpg}\end{center}
-Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama. The company sells its cars under the Nissan, Infiniti, and Datsun brands with in-house performance tuning products labelled Nismo. The company traces its name to the Nissan zaibatsu, now called Nissan Group.
+\subsection{Nissan is founded}
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/nissan.jpg}\end{center}
+In 1928, Yoshisuke Aikawa founded the holding company Nihon Sangyo. The name 'Nissan' originated during the 1930s as an abbreviation used on the Tokyo Stock Exchange for Nihon Sangyo. This company was Nissan "Zaibatsu" which included Tobata Casting and Hitachi. At this time Nissan controlled foundries and auto parts businesses, but Aikawa did not enter automobile manufacturing until 1933.
+
+The zaibatsu eventually grew to include 74 firms, and became the fourth-largest in Japan during World War II.
+
+In 1931, DAT Jidosha Seizo became affiliated with Tobata Casting, and was merged into Tobata Casting in 1933. As Tobata Casting was a Nissan company, this was the beginning of Nissan's automobile manufacturing.
+
+\chapter{1934}
+\section{October 16}
+\subsection{The Long March}
+\vspace{2mm}\begin{center}\includegraphics[width=7cm]{./img/longMarch.jpg}\end{center}
+The Long March (October 1934 – October 1935) was a military retreat undertaken by the Red Army of the Communist Party of China, the forerunner of the People's Liberation Army, to evade the pursuit of the Kuomintang (KMT or Chinese Nationalist Party) army. There was not one Long March, but a series of marches, as various Communist armies in the south escaped to the north and west. The best known is the march from Jiangxi province which began in October 1934. The First Front Army of the Chinese Soviet Republic, led by an inexperienced military commission, was on the brink of annihilation by Generalissimo Chiang Kai-shek's troops in their stronghold in Jiangxi province. The Communists, under the eventual command of Mao Zedong and Zhou Enlai, escaped in a circling retreat to the west and north, which reportedly traversed over 9,000 kilometers (5600 miles) over 370 days. The route passed through some of the most difficult terrain of western China by traveling west, then north, to Shaanxi.
 
 \chapter{1939}
 \section{September 01}
-\subsection{World War II begins}
+\subsection{German invasion of Poland (World War II begins)}
+\vspace{2mm}\begin{center}\includegraphics[width=7.5cm]{./img/gerInvadesPol.jpg}\end{center}
+The Invasion of Poland, known in Poland as the September Campaign or the 1939 Defensive War, and in Germany as the Poland Campaign, was an invasion of Poland by Germany that marked the beginning of World War II. The German invasion began on 1 September 1939, one week after the signing of the Molotov–Ribbentrop Pact between Germany and the Soviet Union. The Soviets invaded Poland on 17 September following the Molotov–Tōgō agreement that terminated the Soviet and Japanese Battles of Khalkhin Gol in the east on 16 September. The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the German–Soviet Frontier Treaty.
+
+German forces invaded Poland from the north, south, and west the morning after the Gleiwitz incident. Slovak forces advanced alongside the Germans in northern Slovakia. As the Wehrmacht advanced, Polish forces withdrew from their forward bases of operation close to the Polish–German border to more established lines of defence to the east. After the mid-September Polish defeat in the Battle of the Bzura, the Germans gained an undisputed advantage. Polish forces then withdrew to the southeast where they prepared for a long defence of the Romanian Bridgehead and awaited expected support and relief from France and the United Kingdom. While those two countries had pacts with Poland and had declared war on Germany on 3 September, in the end their aid to Poland was very limited.
 
 \chapter{1940}
 \section{May 15}
 \subsection{McDonald's is founded \protect\footnote{Movie/Documentary: The Founder (2016)}}
 \vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/mcdonalds.jpg}\end{center}
 McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018.
+
+\chapter{1941}
+\section{October 02}
+\subsection{Battle of Moscow}
+\vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/battleOfMoscow.jpg}\end{center}
+The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II. It took place between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union.
+
+The German strategic offensive, named Operation Typhoon, called for two pincer offensives, one to the north of Moscow against the Kalinin Front by the 3rd and 4th Panzer Armies, simultaneously severing the Moscow–Leningrad railway, and another to the south of Moscow Oblast against the Western Front south of Tula, by the 2nd Panzer Army, while the 4th Army advanced directly towards Moscow from the west. According to Andrew Roberts, Hitler's offensive towards the Soviet capital was nothing less than an 'all-out attack': "It is no exaggeration to state that the outcome of the Second World War hung in the balance during this massive attack"
+
+\section{December 07}
+\subsection{Attack on Pearl Harbor}
+\vspace{2mm}\begin{center}\includegraphics[width=7cm]{./img/attackOnPearlHarbor.jpg}\end{center}
+The Attack on Pearl Harbor was a surprise military strike by the Imperial Japanese Navy Air Service against the United States naval base at Pearl Harbor, Hawaii Territory, on the morning of December 7, 1941. The attack, also known as the Battle of Pearl Harbor, led to the United States' entry into World War II. The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning.
+
+Japan intended the attack as a preventive action to keep the U.S. Pacific Fleet from interfering with its planned military actions in Southeast Asia against overseas territories of the United Kingdom, the Netherlands, and the United States. Over the course of seven hours there were coordinated Japanese attacks on the U.S.-held Philippines, Guam and Wake Island and on the British Empire in Malaya, Singapore, and Hong Kong.
 
 \chapter{1942}
 \section{January 08}
@@ -446,9 +519,11 @@ In the final year of the war, the Allies prepared for what was anticipated to be
 
 \chapter{1947}
 \section{August 14}
-\subsection{The birth of Pakistan \protect\footnote{Movie/Documentary: Gandhi (1982)}}
-\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/pakistan.png}\end{center}
-Pakistan, or the Islamic Republic of Pakistan as it is officially known, is a relatively young country, emerging on 14 August 1947. On 14 August 1947 the new independent nation of Pakistan was born, followed closely by India's independence on 15 August 1947.
+\subsection{Creation of Pakistan \protect\footnote{Movie/Documentary: Gandhi (1982)}}
+\vspace{2mm}\begin{center}\includegraphics[width=3.5cm]{./img/pakistanFlag.png}\end{center}
+The 1946 elections resulted in the Muslim League winning 90 percent of the seats reserved for Muslims. Thus, the 1946 election was effectively a plebiscite in which the Indian Muslims were to vote on the creation of Pakistan, a plebiscite won by the Muslim League. This victory was assisted by the support given to the Muslim League by the support of the landowners of Sindh and Punjab. The Congress, which initially denied the Muslim League's claim of being the sole representative of Indian Muslims, was now forced to recognise the fact. The British had no alternative except to take Jinnah's views into account as he had emerged as the sole spokesperson of the Entire British India's Muslims. However, the British did not want British India to be partitioned, and in one last effort to prevent it they devised the Cabinet Mission plan.
+
+As the cabinet mission failed, the British government announced its intention to end the British Rule in 1946–47. Nationalists in British India—including Jawaharlal Nehru and Abul Kalam Azad of Congress, Jinnah of the All-India Muslim League, and Master Tara Singh representing the Sikhs—agreed to the proposed terms of transfer of power and independence in June 1947 with the Viceroy of India, Lord Mountbatten of Burma. As the United Kingdom agreed to the partitioning of India in 1947, the modern state of Pakistan was established on 14 August 1947 (27th of Ramadan in 1366 of the Islamic Calendar), amalgamating the Muslim-majority eastern and northwestern regions of British India. It comprised the provinces of Balochistan, East Bengal, the North-West Frontier Province, West Punjab, and Sindh.
 
 \section{August 15}
 \subsection{Independence of India \protect\footnote{Movie/Documentary: Gandhi (1982)}}
@@ -494,7 +569,7 @@ The volume consists of a foreword, in which the author discusses his writing of 
 \section{October 04}
 \subsection{Launch of Sputnik 1 (The beginning of space age)}
 \vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/sputnik1.jpg}\end{center}
-Sputnik 1 was the first artificial Earth satellite.[6] The Soviet Union launched it into an elliptical low Earth orbit on 4 October 1957, orbiting for three weeks before its batteries died, then silently for two more months before falling back into the atmosphere. It was a 58 cm (23 in) diameter polished metal sphere, with four external radio antennas to broadcast radio pulses. Its radio signal was easily detectable even by radio amateurs,[7] and the 65 degrees inclination and duration of its orbit made its flight path cover virtually the entire inhabited Earth. This surprise success precipitated the American Sputnik crisis and triggered the Space Race, a part of the Cold War. The launch ushered in new political, military, technological, and scientific developments.[8][9]
+Sputnik 1 was the first artificial Earth satellite. The Soviet Union launched it into an elliptical low Earth orbit on 4 October 1957, orbiting for three weeks before its batteries died, then silently for two more months before falling back into the atmosphere. It was a 58 cm (23 in) diameter polished metal sphere, with four external radio antennas to broadcast radio pulses. Its radio signal was easily detectable even by radio amateurs, and the 65 degrees inclination and duration of its orbit made its flight path cover virtually the entire inhabited Earth. This surprise success precipitated the American Sputnik crisis and triggered the Space Race, a part of the Cold War. The launch ushered in new political, military, technological, and scientific developments.
 
 Tracking and studying Sputnik 1 from Earth provided scientists with valuable information. The density of the upper atmosphere could be deduced from its drag on the orbit, and the propagation of its radio signals gave data about the ionosphere.
 
@@ -507,7 +582,7 @@ NASA was established in 1958, succeeding the National Advisory Committee for Aer
 NASA science is focused on better understanding Earth through the Earth Observing System; advancing heliophysics through the efforts of the Science Mission Directorate's Heliophysics Research Program; exploring bodies throughout the Solar System with advanced robotic spacecraft missions such as New Horizons; and researching astrophysics topics, such as the Big Bang, through the Great Observatories and associated programs
 
 \chapter{1962}
-\section{October 16-28}
+\section{October 16}
 \subsection{The Cuban Missile Crisis}
 \vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/cubaMissileCsis.jpg}\end{center}
 The Cuban Missile Crisis, also known as the October Crisis of 1962, the Caribbean Crisis, or the Missile Scare, was a 13-day (October 16–28, 1962) confrontation between the United States and the Soviet Union initiated by American ballistic missile deployment in Italy and Turkey with consequent Soviet ballistic missile deployment in Cuba. The confrontation is often considered the closest the Cold War came to escalating into a full-scale nuclear war.
@@ -523,8 +598,8 @@ During his time at Microsoft, Newell, along with fellow co-worker Mike Harringto
 
 \chapter{1969}
 \section{July 20}
-\subsection{Landing on The Moon (Apollo 11)}
-\vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/apollo11.jpg}\end{center}
+\subsection{Apollo 11 (first human landing on the Moon)}
+\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/apollo11.jpg}\end{center}
 Apollo 11 was the spaceflight that landed the first two people on the Moon. Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin, both American, landed the lunar module Eagle on July 20, 1969, at 20:17 UTC. Armstrong became the first person to step onto the lunar surface six hours after landing on July 21 at 02:56:15 UTC; Aldrin joined him about 20 minutes later. They spent about two and a quarter hours together outside the spacecraft, and collected 47.5 pounds (21.5 kg) of lunar material to bring back to Earth. Command Module Pilot Michael Collins piloted the command module Columbia alone in lunar orbit while they were on the Moon's surface. Armstrong and Aldrin spent 21.5 hours on the lunar surface before rejoining Columbia in lunar orbit.
 
 \chapter{1975}
@@ -539,9 +614,9 @@ Childhood friends Bill Gates and Paul Allen sought to make a business utilizing 
 The Green March was a strategic mass demonstration in November 1975, coordinated by the Moroccan government, to force Spain to hand over the disputed, autonomous semi-metropolitan province of Spanish Sahara to Morocco. The demonstration of some 350,000 Moroccans advanced several kilometres into the Western Sahara territory, escorted by nearly 20,000 Moroccan troops, and meeting very little response by the Sahrawi Polisario Front. Nevertheless, the events quickly escalated into a fully waged war between Morocco and the militias of the Polisario, the Western Sahara War, which would last for 16 years. Morocco later gained control over most of the former Spanish Sahara, which it continues to hold.
 
 \chapter{1977}
-\section{August 20 to September 05}
+\section{August 20}
 \subsection{Beginning of the Voyager program \protect\footnote{Documentary: The Farthest (2017)}}
-\vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/voyagerProgram.jpg}\end{center}
+\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/voyagerProgram.jpg}\end{center}
 The Voyager program is an American scientific program that employs two robotic probes, Voyager 1 and Voyager 2, to study the outer Solar System. The probes were launched in 1977 to take advantage of a favorable alignment of Jupiter, Saturn, Uranus and Neptune. Although their original mission was to study only the planetary systems of Jupiter and Saturn, Voyager 2 continued on to Uranus and Neptune. The Voyagers now explore the outer boundary of the heliosphere in interstellar space; their mission has been extended three times and they continue to transmit useful scientific data. Neither Uranus nor Neptune has been visited by a probe other than Voyager 2.
 
 \chapter{1979}
@@ -576,7 +651,7 @@ The event occurred during a late-night safety test which simulated a station bla
 \vspace{2mm}\begin{center}\includegraphics[width=4cm]{./img/www.jpg}\end{center}
 Tim Berners-Lee's vision of a global hyperlinked information system became a possibility by the second half of the 1980s. By 1985, the global Internet began to proliferate in Europe and the Domain Name System (upon which the Uniform Resource Locator is built) came into being. In 1988 the first direct IP connection between Europe and North America was made and Berners-Lee began to openly discuss the possibility of a web-like system at CERN. In March 1989 Berners-Lee issued a proposal to the management at CERN for a system called "Mesh" that referenced ENQUIRE, a database and software project he had built in 1980, which used the term "web" and described a more elaborate information management system based on links embedded in readable text: "Imagine, then, the references in this document all being associated with the network address of the thing to which they referred, so that while reading this document you could skip to them with a click of the mouse." Such a system, he explained, could be referred to using one of the existing meanings of the word hypertext, a term that he says was coined in the 1950s. There is no reason, the proposal continues, why such hypertext links could not encompass multimedia documents including graphics, speech and video, so that Berners-Lee goes on to use the term hypermedia.
 
-\section{April 15 - June 04}
+\section{April 15}
 \subsection{Tiananmen Square Massacre}
 \vspace{2mm}\begin{center}\includegraphics[width=8cm]{./img/tiananmenMassacre.jpg}\end{center}
 The 1989 Tiananmen Square protests, commonly known in mainland China as the June Fourth Incident, were student-led demonstrations in Beijing (the capital of the People's Republic of China) in 1989. More broadly, it refers to the popular national movement inspired by the Beijing protests during that period, sometimes called the '89 Democracy Movement. The protests were forcibly suppressed after Chinese Premier Li Peng declared martial law. In what became known in the West as the Tiananmen Square Massacre, troops with assault rifles and tanks fired at the demonstrators trying to block the military's advance towards Tiananmen Square. The number of civilian deaths has been estimated variously from 180 to 10,454.
@@ -600,24 +675,30 @@ The Hubble Space Telescope (HST) is a space telescope that was launched into low
 The Invasion of Kuwait on 2 August 1990 was a two-day operation conducted by Iraq against the neighboring state of Kuwait, which resulted in the seven-month-long Iraqi occupation of the country. This invasion and Iraq's subsequent refusal to withdraw from Kuwait by a deadline mandated by the United Nations[8] led to military intervention by a United Nations-authorized coalition of forces led by the United States. These events came to be known as the first Gulf War and resulted in the expulsion of Iraqi forces from Kuwait and the Iraqis setting 600 Kuwaiti oil wells on fire during their retreat.
 
 \chapter{1991}
-\section{August 06}
-\subsection{First Website is put online and available to the public}
+%\section{August 06}
+%\subsection{}
 
 \section{December 26}
 \subsection{Dissolution of the Soviet Union}
-\vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/ussr.jpg}\end{center}
-The dissolution of the Soviet Union occurred on 26 December 1991, officially granting self-governing independence to the Republics of the Union of Soviet Socialist Republics (USSR). It was a result of the declaration number 142-H of the Supreme Soviet of the Soviet Union.
+\vspace{2mm}\begin{center}\includegraphics[width=5cm]{./img/ussr.jpg}\end{center}
+The dissolution of the Soviet Union occurred on 26 December 1991, officially granting self-governing independence to the Republics of the Union of Soviet Socialist Republics (USSR). It was a result of the declaration number 142-H of the Supreme Soviet of the Soviet Union. The declaration acknowledged the independence of the former Soviet republics and created the Commonwealth of Independent States (CIS), although five of the signatories ratified it much later or did not do so at all. On the previous day, 25 December, Soviet President Mikhail Gorbachev, the eighth and final leader of the USSR, resigned, declared his office extinct and handed over its powers—including control of the Soviet nuclear missile launching codes—to Russian President Boris Yeltsin. That evening at 7:32 p.m., the Soviet flag was lowered from the Kremlin for the last time and replaced with the pre-revolutionary Russian flag.
+
+Previously, from August to December all the individual republics, including Russia itself, had either seceded from the union or at the very least denounced the Treaty on the Creation of the USSR. The week before formal dissolution, eleven republics signed the Alma-Ata Protocol formally establishing the CIS and declaring that the USSR had ceased to exist. Both the Revolutions of 1989 and the dissolution of the USSR also marked the end of the Cold War.
 
 \chapter{1992}
 \section{February 07}
-\subsection{Maastricht Treaty creates the European Union}
-\vspace{2mm}\begin{center}\includegraphics[width=12cm]{./img/maastrichtTreaty.jpg}\end{center}
+\subsection{Maastricht Treaty (Treaty on European Union)}
+\vspace{2mm}\begin{center}\includegraphics[width=7cm]{./img/europeFlag.png}\end{center}
 The Maastricht Treaty (officially the Treaty on European Union) was signed on 7 February 1992 by the members of the European Community in Maastricht, Netherlands to further European integration. On 9–10 December 1991, the same city hosted the European Council which drafted the treaty. The treaty founded the European Union and established its pillar structure which stayed in place until the Lisbon Treaty came into force in 2009. The treaty also greatly expanded the competences of the EEC/EU and led to the creation of the single European currency, the euro.
+
+The Maastricht Treaty reformed and amended the treaties establishing the European Communities, the EU's first pillar. It renamed European Economic Community the European Community, to reflect its expanded competences beyond economic matters. The Maastricht Treaty also created two new "pillars" of the EU on Common Foreign and Security Policy and Cooperation in the Fields of Justice and Home Affairs (respectively the second and third pillars), which replaced the former informal intergovernmental cooperation bodies named TREVI and European Political Cooperation on EU Foreign policy coordination.
 
 \section{February 22}
 \subsection{The first extra-solar planet is confirmed}
 \vspace{2mm}\begin{center}\includegraphics[width=10cm]{./img/PSR_B1257_12_C.jpg}\end{center}
 The first suspected scientific detection of an exoplanet occurred in 1988. Shortly afterwards, the first confirmed detection came in 1992, with the discovery of several terrestrial-mass planets orbiting the pulsar PSR B1257+12
+
+PSR B1257+12 was discovered by the Polish astronomer Aleksander Wolszczan on 9 February 1990 using the Arecibo radio telescope. It is a millisecond pulsar, a kind of neutron star, with a rotation period of 6.22 milliseconds (9,650 rpm), and was found to have anomalies in the pulsation period, which led to investigations as to the cause of the irregular pulses. In 1992 Wolszczan and Dale Frail published a famous paper on the first confirmed discovery of planets outside our solar system. Using refined methods one more planet was found orbiting this pulsar in 1994.
 
 \chapter{1994}
 \section{April 26-29}
