@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.22)  19 JAN 2019 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.22)  19 JAN 2019 15:18
 entering extended mode
 **./history.tex
 (history.tex
@@ -341,16 +341,16 @@ nth of Hekatombaion,
 
 ]
 Chapter 7.
-<./img/skull.png, id=1765, 188.95593pt x 151.3153pt>
-File: ./img/skull.png Graphic file (type png)
-<use ./img/skull.png>
-Package pdftex.def Info: ./img/skull.png  used on input line 86.
-(pdftex.def)             Requested size: 142.26378pt x 113.92488pt.
+<./img/skull.jpg, id=1765, 251.94125pt x 201.75375pt>
+File: ./img/skull.jpg Graphic file (type jpg)
+<use ./img/skull.jpg>
+Package pdftex.def Info: ./img/skull.jpg  used on input line 86.
+(pdftex.def)             Requested size: 142.26378pt x 113.92334pt.
 [11
 
- <./img/skull.png>]
+ <./img/skull.jpg>]
 Chapter 8.
-<./img/muhammad.jpg, id=1771, 192.72pt x 144.54pt>
+<./img/muhammad.jpg, id=1770, 192.72pt x 144.54pt>
 File: ./img/muhammad.jpg Graphic file (type jpg)
 <use ./img/muhammad.jpg>
 Package pdftex.def Info: ./img/muhammad.jpg  used on input line 93.
@@ -361,18 +361,18 @@ Package pdftex.def Info: ./img/muhammad.jpg  used on input line 93.
 
 ]
 Chapter 9.
-<./img/oxfordLogo.png, id=1781, 803.0pt x 966.61125pt>
-File: ./img/oxfordLogo.png Graphic file (type png)
-<use ./img/oxfordLogo.png>
-Package pdftex.def Info: ./img/oxfordLogo.png  used on input line 102.
+<./img/oxfordLogo.jpg, id=1780, 803.0pt x 966.61125pt>
+File: ./img/oxfordLogo.jpg Graphic file (type jpg)
+<use ./img/oxfordLogo.jpg>
+Package pdftex.def Info: ./img/oxfordLogo.jpg  used on input line 102.
 (pdftex.def)             Requested size: 142.26378pt x 171.23915pt.
 [14
 
- <./img/oxfordLogo.png>] [15
+ <./img/oxfordLogo.jpg>] [15
 
 ]
 Chapter 10.
-<./img/gengishKhan.jpg, id=1792, 127.97812pt x 150.5625pt>
+<./img/gengishKhan.jpg, id=1789, 127.97812pt x 150.5625pt>
 File: ./img/gengishKhan.jpg Graphic file (type jpg)
 <use ./img/gengishKhan.jpg>
 Package pdftex.def Info: ./img/gengishKhan.jpg  used on input line 112.
@@ -383,7 +383,7 @@ Package pdftex.def Info: ./img/gengishKhan.jpg  used on input line 112.
 
 ]
 Chapter 11.
-<./img/renaissance.jpg, id=1801, 289.08pt x 224.2779pt>
+<./img/renaissance.jpg, id=1798, 289.08pt x 224.2779pt>
 File: ./img/renaissance.jpg Graphic file (type jpg)
 <use ./img/renaissance.jpg>
 Package pdftex.def Info: ./img/renaissance.jpg  used on input line 123.
@@ -394,7 +394,7 @@ Package pdftex.def Info: ./img/renaissance.jpg  used on input line 123.
 
 ]
 Chapter 12.
-<./img/bubonicDoor.jpg, id=1811, 478.78876pt x 717.68124pt>
+<./img/bubonicDoor.jpg, id=1808, 478.78876pt x 717.68124pt>
 File: ./img/bubonicDoor.jpg Graphic file (type jpg)
 <use ./img/bubonicDoor.jpg>
 Package pdftex.def Info: ./img/bubonicDoor.jpg  used on input line 134.
@@ -405,7 +405,7 @@ Package pdftex.def Info: ./img/bubonicDoor.jpg  used on input line 134.
 
 ]
 Chapter 13.
-<./img/fallofConstantpl.jpg, id=1820, 185.493pt x 105.2733pt>
+<./img/fallofConstantpl.jpg, id=1817, 185.493pt x 105.2733pt>
 File: ./img/fallofConstantpl.jpg Graphic file (type jpg)
 <use ./img/fallofConstantpl.jpg>
 Package pdftex.def Info: ./img/fallofConstantpl.jpg  used on input line 143.
@@ -414,7 +414,7 @@ Package pdftex.def Info: ./img/fallofConstantpl.jpg  used on input line 143.
 
  <./img/fallofConstantpl.jpg>]
 Chapter 14.
-<./img/gutenberg.jpg, id=1825, 602.25pt x 765.6103pt>
+<./img/gutenberg.jpg, id=1822, 602.25pt x 765.6103pt>
 File: ./img/gutenberg.jpg Graphic file (type jpg)
 <use ./img/gutenberg.jpg>
 Package pdftex.def Info: ./img/gutenberg.jpg  used on input line 152.
@@ -428,7 +428,7 @@ Overfull \hbox (4.45422pt too wide) in paragraph at lines 157--157
 |[]\OT1/cmr/bx/n/12 First Span-ish set-tle-ment La Navi-dad in the New World| 
  []
 
-<./img/lanavidad.jpg, id=1830, 614.295pt x 521.69907pt>
+<./img/lanavidad.jpg, id=1827, 614.295pt x 521.69907pt>
 File: ./img/lanavidad.jpg Graphic file (type jpg)
 <use ./img/lanavidad.jpg>
 Package pdftex.def Info: ./img/lanavidad.jpg  used on input line 158.
@@ -439,7 +439,7 @@ Package pdftex.def Info: ./img/lanavidad.jpg  used on input line 158.
 
 ]
 Chapter 16.
-<./img/screvolution.jpg, id=1840, 483.8075pt x 304.13625pt>
+<./img/screvolution.jpg, id=1837, 483.8075pt x 304.13625pt>
 File: ./img/screvolution.jpg Graphic file (type jpg)
 <use ./img/screvolution.jpg>
 Package pdftex.def Info: ./img/screvolution.jpg  used on input line 167.
@@ -448,7 +448,7 @@ Package pdftex.def Info: ./img/screvolution.jpg  used on input line 167.
 
  <./img/screvolution.jpg>]
 Chapter 17.
-<./img/galileo.jpg, id=1845, 85.2786pt x 108.405pt>
+<./img/galileo.jpg, id=1842, 85.2786pt x 108.405pt>
 File: ./img/galileo.jpg Graphic file (type jpg)
 <use ./img/galileo.jpg>
 Package pdftex.def Info: ./img/galileo.jpg  used on input line 173.
@@ -469,16 +469,16 @@ Chapter 18.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 181.
 
-<./img/harvardLogo.png, id=1854, 1027.84pt x 998.73125pt>
-File: ./img/harvardLogo.png Graphic file (type png)
-<use ./img/harvardLogo.png>
-Package pdftex.def Info: ./img/harvardLogo.png  used on input line 182.
+<./img/harvardLogo.jpg, id=1851, 1027.84pt x 998.73125pt>
+File: ./img/harvardLogo.jpg Graphic file (type jpg)
+<use ./img/harvardLogo.jpg>
+Package pdftex.def Info: ./img/harvardLogo.jpg  used on input line 182.
 (pdftex.def)             Requested size: 142.26378pt x 138.22128pt.
 [29
 
- <./img/harvardLogo.png>]
+ <./img/harvardLogo.jpg>]
 Chapter 19.
-<./img/galileoMiddleFinger.jpg, id=1861, 128.48pt x 348.9035pt>
+<./img/galileoMiddleFinger.jpg, id=1857, 128.48pt x 348.9035pt>
 File: ./img/galileoMiddleFinger.jpg Graphic file (type jpg)
 <use ./img/galileoMiddleFinger.jpg>
 Package pdftex.def Info: ./img/galileoMiddleFinger.jpg  used on input line 190.
@@ -488,7 +488,7 @@ Package pdftex.def Info: ./img/galileoMiddleFinger.jpg  used on input line 190.
 
  <./img/galileoMiddleFinger.jpg>]
 Chapter 20.
-<./img/isaacNewton.jpg, id=1867, 165.61874pt x 227.34938pt>
+<./img/isaacNewton.jpg, id=1863, 165.61874pt x 227.34938pt>
 File: ./img/isaacNewton.jpg Graphic file (type jpg)
 <use ./img/isaacNewton.jpg>
 Package pdftex.def Info: ./img/isaacNewton.jpg  used on input line 197.
@@ -499,7 +499,7 @@ Package pdftex.def Info: ./img/isaacNewton.jpg  used on input line 197.
 
 ]
 Chapter 21.
-<./img/industrevolution.jpg, id=1876, 501.875pt x 346.29375pt>
+<./img/industrevolution.jpg, id=1872, 501.875pt x 346.29375pt>
 File: ./img/industrevolution.jpg Graphic file (type jpg)
 <use ./img/industrevolution.jpg>
 Package pdftex.def Info: ./img/industrevolution.jpg  used on input line 206.
@@ -508,7 +508,7 @@ Package pdftex.def Info: ./img/industrevolution.jpg  used on input line 206.
 
  <./img/industrevolution.jpg>]
 Chapter 22.
-<./img/crossingDelaware.jpg, id=1881, 211.54031pt x 135.50626pt>
+<./img/crossingDelaware.jpg, id=1877, 211.54031pt x 135.50626pt>
 File: ./img/crossingDelaware.jpg Graphic file (type jpg)
 <use ./img/crossingDelaware.jpg>
 Package pdftex.def Info: ./img/crossingDelaware.jpg  used on input line 212.
@@ -517,7 +517,7 @@ Package pdftex.def Info: ./img/crossingDelaware.jpg  used on input line 212.
 
  <./img/crossingDelaware.jpg>]
 Chapter 23.
-<./img/youngBonaparte.jpg, id=1886, 368.87813pt x 451.6875pt>
+<./img/youngBonaparte.jpg, id=1882, 368.87813pt x 451.6875pt>
 File: ./img/youngBonaparte.jpg Graphic file (type jpg)
 <use ./img/youngBonaparte.jpg>
 Package pdftex.def Info: ./img/youngBonaparte.jpg  used on input line 218.
@@ -526,7 +526,7 @@ Package pdftex.def Info: ./img/youngBonaparte.jpg  used on input line 218.
 
  <./img/youngBonaparte.jpg>]
 Chapter 24.
-<./img/usaIndep.jpg, id=1891, 183.084pt x 121.8954pt>
+<./img/usaIndep.jpg, id=1887, 183.084pt x 121.8954pt>
 File: ./img/usaIndep.jpg Graphic file (type jpg)
 <use ./img/usaIndep.jpg>
 Package pdftex.def Info: ./img/usaIndep.jpg  used on input line 225.
@@ -537,7 +537,7 @@ Package pdftex.def Info: ./img/usaIndep.jpg  used on input line 225.
 
 ]
 Chapter 25.
-<./img/youngHugo.jpg, id=1901, 662.475pt x 441.65pt>
+<./img/youngHugo.jpg, id=1897, 662.475pt x 441.65pt>
 File: ./img/youngHugo.jpg Graphic file (type jpg)
 <use ./img/youngHugo.jpg>
 Package pdftex.def Info: ./img/youngHugo.jpg  used on input line 235.
@@ -546,7 +546,7 @@ Package pdftex.def Info: ./img/youngHugo.jpg  used on input line 235.
 
  <./img/youngHugo.jpg>]
 Chapter 26.
-<./img/claraBarton.jpg, id=1906, 171.64125pt x 167.12437pt>
+<./img/claraBarton.jpg, id=1902, 171.64125pt x 167.12437pt>
 File: ./img/claraBarton.jpg Graphic file (type jpg)
 <use ./img/claraBarton.jpg>
 Package pdftex.def Info: ./img/claraBarton.jpg  used on input line 242.
@@ -555,34 +555,34 @@ Package pdftex.def Info: ./img/claraBarton.jpg  used on input line 242.
 
  <./img/claraBarton.jpg>]
 Chapter 27.
-<./img/johnTyler.jpg, id=1911, 24.09pt x 27.85406pt>
+<./img/johnTyler.jpg, id=1907, 24.09pt x 27.85406pt>
 File: ./img/johnTyler.jpg Graphic file (type jpg)
 <use ./img/johnTyler.jpg>
 Package pdftex.def Info: ./img/johnTyler.jpg  used on input line 248.
 (pdftex.def)             Requested size: 142.26378pt x 164.57288pt.
-<./img/c&aLogo.png, id=1912, 748.29562pt x 573.64313pt>
-File: ./img/c&aLogo.png Graphic file (type png)
-<use ./img/c&aLogo.png>
-Package pdftex.def Info: ./img/c&aLogo.png  used on input line 253.
-(pdftex.def)             Requested size: 142.26378pt x 109.0546pt.
+<./img/c&aLogo.jpg, id=1908, 997.7275pt x 764.8575pt>
+File: ./img/c&aLogo.jpg Graphic file (type jpg)
+<use ./img/c&aLogo.jpg>
+Package pdftex.def Info: ./img/c&aLogo.jpg  used on input line 253.
+(pdftex.def)             Requested size: 142.26378pt x 109.05167pt.
 [40
 
- <./img/johnTyler.jpg>] [41 <./img/c&aLogo.png>]
+ <./img/johnTyler.jpg>] [41 <./img/c&aLogo.jpg>]
 Chapter 28.
 [42
 
 ]
 Chapter 29.
-<./img/LouisVuittonLogo.png, id=1927, 803.0pt x 979.66pt>
-File: ./img/LouisVuittonLogo.png Graphic file (type png)
-<use ./img/LouisVuittonLogo.png>
-Package pdftex.def Info: ./img/LouisVuittonLogo.png  used on input line 267.
+<./img/LouisVuittonLogo.jpg, id=1922, 803.0pt x 979.66pt>
+File: ./img/LouisVuittonLogo.jpg Graphic file (type jpg)
+<use ./img/LouisVuittonLogo.jpg>
+Package pdftex.def Info: ./img/LouisVuittonLogo.jpg  used on input line 267.
 (pdftex.def)             Requested size: 142.26378pt x 173.5508pt.
 [43
 
- <./img/LouisVuittonLogo.png>]
+ <./img/LouisVuittonLogo.jpg>]
 Chapter 30.
-<./img/inaugLincoln.jpg, id=1933, 1027.84pt x 1030.85126pt>
+<./img/inaugLincoln.jpg, id=1927, 1027.84pt x 1030.85126pt>
 File: ./img/inaugLincoln.jpg Graphic file (type jpg)
 <use ./img/inaugLincoln.jpg>
 Package pdftex.def Info: ./img/inaugLincoln.jpg  used on input line 274.
@@ -591,7 +591,7 @@ Package pdftex.def Info: ./img/inaugLincoln.jpg  used on input line 274.
 
  <./img/inaugLincoln.jpg>]
 Chapter 31.
-<./img/youngGandhi.jpg, id=1938, 1877.0125pt x 2422.04875pt>
+<./img/youngGandhi.jpg, id=1932, 1877.0125pt x 2422.04875pt>
 File: ./img/youngGandhi.jpg Graphic file (type jpg)
 <use ./img/youngGandhi.jpg>
 Package pdftex.def Info: ./img/youngGandhi.jpg  used on input line 282.
@@ -600,7 +600,7 @@ Package pdftex.def Info: ./img/youngGandhi.jpg  used on input line 282.
 
  <./img/youngGandhi.jpg>]
 Chapter 32.
-<./img/youngEinstein.jpg, id=1943, 83.1105pt x 120.45pt>
+<./img/youngEinstein.jpg, id=1937, 83.1105pt x 120.45pt>
 File: ./img/youngEinstein.jpg Graphic file (type jpg)
 <use ./img/youngEinstein.jpg>
 Package pdftex.def Info: ./img/youngEinstein.jpg  used on input line 289.
@@ -609,7 +609,7 @@ Package pdftex.def Info: ./img/youngEinstein.jpg  used on input line 289.
 
  <./img/youngEinstein.jpg>]
 Chapter 33.
-<./img/eiffelTowerConstruction.jpg, id=1948, 500.62032pt x 405.01312pt>
+<./img/eiffelTowerConstruction.jpg, id=1942, 500.62032pt x 405.01312pt>
 File: ./img/eiffelTowerConstruction.jpg Graphic file (type jpg)
 <use ./img/eiffelTowerConstruction.jpg>
 Package pdftex.def Info: ./img/eiffelTowerConstruction.jpg  used on input line 
@@ -619,12 +619,12 @@ Package pdftex.def Info: ./img/eiffelTowerConstruction.jpg  used on input line
 
  <./img/eiffelTowerConstruction.jpg>]
 Chapter 34.
-<./img/youngchaplin.jpg, id=1953, 99.4917pt x 138.5175pt>
+<./img/youngchaplin.jpg, id=1947, 99.4917pt x 138.5175pt>
 File: ./img/youngchaplin.jpg Graphic file (type jpg)
 <use ./img/youngchaplin.jpg>
 Package pdftex.def Info: ./img/youngchaplin.jpg  used on input line 302.
 (pdftex.def)             Requested size: 142.26378pt x 198.08061pt.
-<./img/infantHitler.jpg, id=1954, 757.3896pt x 1156.32pt>
+<./img/infantHitler.jpg, id=1948, 757.3896pt x 1156.32pt>
 File: ./img/infantHitler.jpg Graphic file (type jpg)
 <use ./img/infantHitler.jpg>
 Package pdftex.def Info: ./img/infantHitler.jpg  used on input line 306.
@@ -632,14 +632,14 @@ Package pdftex.def Info: ./img/infantHitler.jpg  used on input line 306.
 [48
 
  <./img/youngchaplin.jpg>]
-<./img/nintendoFounded.jpg, id=1960, 963.6pt x 758.08218pt>
+<./img/nintendoFounded.jpg, id=1954, 963.6pt x 758.08218pt>
 File: ./img/nintendoFounded.jpg Graphic file (type jpg)
 <use ./img/nintendoFounded.jpg>
 Package pdftex.def Info: ./img/nintendoFounded.jpg  used on input line 310.
 (pdftex.def)             Requested size: 284.52756pt x 223.84052pt.
  [49 <./img/infantHitler.jpg>] [50 <./img/nintendoFounded.jpg>]
 Chapter 35.
-<./img/youngTolkien.jpg, id=1969, 188.705pt x 262.9825pt>
+<./img/youngTolkien.jpg, id=1963, 188.705pt x 262.9825pt>
 File: ./img/youngTolkien.jpg Graphic file (type jpg)
 <use ./img/youngTolkien.jpg>
 Package pdftex.def Info: ./img/youngTolkien.jpg  used on input line 316.
@@ -648,7 +648,7 @@ Package pdftex.def Info: ./img/youngTolkien.jpg  used on input line 316.
 
  <./img/youngTolkien.jpg>]
 Chapter 36.
-<./img/olgames.jpg, id=1974, 390.258pt x 562.2606pt>
+<./img/olgames.jpg, id=1968, 390.258pt x 562.2606pt>
 File: ./img/olgames.jpg Graphic file (type jpg)
 <use ./img/olgames.jpg>
 Package pdftex.def Info: ./img/olgames.jpg  used on input line 323.
@@ -665,34 +665,34 @@ Overfull \hbox (0.72578pt too wide) in paragraph at lines 324--326
 
 ]
 Chapter 37.
-<./img/fordLogo.png, id=1983, 1927.2pt x 739.76375pt>
-File: ./img/fordLogo.png Graphic file (type png)
-<use ./img/fordLogo.png>
-Package pdftex.def Info: ./img/fordLogo.png  used on input line 333.
+<./img/fordLogo.jpg, id=1977, 1927.2pt x 739.76375pt>
+File: ./img/fordLogo.jpg Graphic file (type jpg)
+<use ./img/fordLogo.jpg>
+Package pdftex.def Info: ./img/fordLogo.jpg  used on input line 333.
 (pdftex.def)             Requested size: 199.16928pt x 76.44145pt.
-<./img/firstflight.jpg, id=1984, 602.25pt x 389.95688pt>
+<./img/firstflight.jpg, id=1978, 602.25pt x 389.95688pt>
 File: ./img/firstflight.jpg Graphic file (type jpg)
 <use ./img/firstflight.jpg>
 Package pdftex.def Info: ./img/firstflight.jpg  used on input line 337.
 (pdftex.def)             Requested size: 284.52756pt x 184.23775pt.
 [54
 
- <./img/fordLogo.png>] [55 <./img/firstflight.jpg>]
+ <./img/fordLogo.jpg>] [55 <./img/firstflight.jpg>]
 Chapter 38.
-<./img/rolexLogo.png, id=1995, 1927.2pt x 965.6075pt>
-File: ./img/rolexLogo.png Graphic file (type png)
-<use ./img/rolexLogo.png>
-Package pdftex.def Info: ./img/rolexLogo.png  used on input line 343.
+<./img/rolexLogo.jpg, id=1988, 1927.2pt x 965.6075pt>
+File: ./img/rolexLogo.jpg Graphic file (type jpg)
+<use ./img/rolexLogo.jpg>
+Package pdftex.def Info: ./img/rolexLogo.jpg  used on input line 343.
 (pdftex.def)             Requested size: 142.26378pt x 71.26819pt.
 [56
 
- <./img/rolexLogo.png>]
+ <./img/rolexLogo.jpg>]
 Chapter 39.
-<./img/tripleEntente.png, id=2001, 575.2692pt x 608.9952pt>
-File: ./img/tripleEntente.png Graphic file (type png)
-<use ./img/tripleEntente.png>
-Package pdftex.def Info: ./img/tripleEntente.png  used on input line 350.
-(pdftex.def)             Requested size: 142.26378pt x 150.60365pt.
+<./img/tripleEntente.jpg, id=1993, 599.23875pt x 634.37pt>
+File: ./img/tripleEntente.jpg Graphic file (type jpg)
+<use ./img/tripleEntente.jpg>
+Package pdftex.def Info: ./img/tripleEntente.jpg  used on input line 350.
+(pdftex.def)             Requested size: 142.26378pt x 150.59668pt.
 
 Overfull \hbox (1.35031pt too wide) in paragraph at lines 351--355
 \OT1/cmr/m/n/10.95 However, the Triple En-tente, un-like the Triple Al-liance o
@@ -701,18 +701,18 @@ r the Franco-Russian
 
 [57
 
- <./img/tripleEntente.png>]
+ <./img/tripleEntente.jpg>]
 Chapter 40.
-<./img/FBILogo.png, id=2006, 1027.84pt x 1058.95625pt>
-File: ./img/FBILogo.png Graphic file (type png)
-<use ./img/FBILogo.png>
-Package pdftex.def Info: ./img/FBILogo.png  used on input line 359.
+<./img/FBILogo.jpg, id=1998, 1027.84pt x 1058.95625pt>
+File: ./img/FBILogo.jpg Graphic file (type jpg)
+<use ./img/FBILogo.jpg>
+Package pdftex.def Info: ./img/FBILogo.jpg  used on input line 359.
 (pdftex.def)             Requested size: 142.26378pt x 146.55623pt.
 [58
 
- <./img/FBILogo.png>]
+ <./img/FBILogo.jpg>]
 Chapter 41.
-<./img/titanicsinking.jpg, id=2012, 481.8pt x 329.73187pt>
+<./img/titanicsinking.jpg, id=2003, 481.8pt x 329.73187pt>
 File: ./img/titanicsinking.jpg Graphic file (type jpg)
 <use ./img/titanicsinking.jpg>
 Package pdftex.def Info: ./img/titanicsinking.jpg  used on input line 366.
@@ -735,7 +735,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 372.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 372.
-<./img/franzFerdinand.jpg, id=2018, 602.25pt x 729.47531pt>
+<./img/franzFerdinand.jpg, id=2009, 602.25pt x 729.47531pt>
 File: ./img/franzFerdinand.jpg Graphic file (type jpg)
 <use ./img/franzFerdinand.jpg>
 Package pdftex.def Info: ./img/franzFerdinand.jpg  used on input line 373.
@@ -744,7 +744,7 @@ Package pdftex.def Info: ./img/franzFerdinand.jpg  used on input line 373.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 376.
 
-<./img/austriaWarSerbia.jpg, id=2020, 230.36063pt x 123.46124pt>
+<./img/austriaWarSerbia.jpg, id=2011, 230.36063pt x 123.46124pt>
 File: ./img/austriaWarSerbia.jpg Graphic file (type jpg)
 <use ./img/austriaWarSerbia.jpg>
 Package pdftex.def Info: ./img/austriaWarSerbia.jpg  used on input line 377.
@@ -752,43 +752,43 @@ Package pdftex.def Info: ./img/austriaWarSerbia.jpg  used on input line 377.
 [60
 
  <./img/franzFerdinand.jpg>] [61 <./img/austriaWarSerbia.jpg>]
-<./img/germanyInBelgium.jpg, id=2035, 275.52937pt x 158.09062pt>
+<./img/germanyInBelgium.jpg, id=2026, 275.52937pt x 158.09062pt>
 File: ./img/germanyInBelgium.jpg Graphic file (type jpg)
 <use ./img/germanyInBelgium.jpg>
 Package pdftex.def Info: ./img/germanyInBelgium.jpg  used on input line 392.
 (pdftex.def)             Requested size: 341.43306pt x 195.9242pt.
  [62 <./img/germanyInBelgium.jpg>]
-<./img/battleOfLiege.png, id=2040, 523.9575pt x 296.60812pt>
-File: ./img/battleOfLiege.png Graphic file (type png)
-<use ./img/battleOfLiege.png>
-Package pdftex.def Info: ./img/battleOfLiege.png  used on input line 396.
-(pdftex.def)             Requested size: 341.43306pt x 193.2863pt.
- [63 <./img/battleOfLiege.png>]
-<./img/battleOfCer.jpg, id=2046, 301.125pt x 243.91125pt>
+<./img/battleOfLiege.jpg, id=2031, 698.61pt x 395.4775pt>
+File: ./img/battleOfLiege.jpg Graphic file (type jpg)
+<use ./img/battleOfLiege.jpg>
+Package pdftex.def Info: ./img/battleOfLiege.jpg  used on input line 396.
+(pdftex.def)             Requested size: 341.43306pt x 193.2848pt.
+ [63 <./img/battleOfLiege.jpg>]
+<./img/battleOfCer.jpg, id=2036, 301.125pt x 243.91125pt>
 File: ./img/battleOfCer.jpg Graphic file (type jpg)
 <use ./img/battleOfCer.jpg>
 Package pdftex.def Info: ./img/battleOfCer.jpg  used on input line 400.
 (pdftex.def)             Requested size: 227.62204pt x 184.38075pt.
  [64 <./img/battleOfCer.jpg>]
-<./img/battleOfGalicia.jpg, id=2051, 646.66594pt x 469.00218pt>
+<./img/battleOfGalicia.jpg, id=2041, 646.66594pt x 469.00218pt>
 File: ./img/battleOfGalicia.jpg Graphic file (type jpg)
 <use ./img/battleOfGalicia.jpg>
 Package pdftex.def Info: ./img/battleOfGalicia.jpg  used on input line 405.
 (pdftex.def)             Requested size: 284.52756pt x 206.35443pt.
-<./img/battleOfFrontier.jpg, id=2052, 1129.21875pt x 971.12813pt>
+<./img/battleOfFrontier.jpg, id=2042, 1129.21875pt x 971.12813pt>
 File: ./img/battleOfFrontier.jpg Graphic file (type jpg)
 <use ./img/battleOfFrontier.jpg>
 Package pdftex.def Info: ./img/battleOfFrontier.jpg  used on input line 408.
 (pdftex.def)             Requested size: 284.52756pt x 244.69298pt.
  [65 <./img/battleOfGalicia.jpg>]
-<./img/christmasTruce.jpg, id=2057, 466.74374pt x 262.73157pt>
+<./img/christmasTruce.jpg, id=2047, 466.74374pt x 262.73157pt>
 File: ./img/christmasTruce.jpg Graphic file (type jpg)
 <use ./img/christmasTruce.jpg>
 Package pdftex.def Info: ./img/christmasTruce.jpg  used on input line 412.
 (pdftex.def)             Requested size: 284.52756pt x 160.16579pt.
  [66 <./img/battleOfFrontier.jpg>] [67 <./img/christmasTruce.jpg>]
 Chapter 43.
-<./img/febRusRev.jpg, id=2067, 602.25pt x 451.6875pt>
+<./img/febRusRev.jpg, id=2057, 602.25pt x 451.6875pt>
 File: ./img/febRusRev.jpg Graphic file (type jpg)
 <use ./img/febRusRev.jpg>
 Package pdftex.def Info: ./img/febRusRev.jpg  used on input line 418.
@@ -797,7 +797,7 @@ Package pdftex.def Info: ./img/febRusRev.jpg  used on input line 418.
 
  <./img/febRusRev.jpg>]
 Chapter 44.
-<./img/spanishFlu.jpg, id=2072, 672.5125pt x 378.41376pt>
+<./img/spanishFlu.jpg, id=2062, 672.5125pt x 378.41376pt>
 File: ./img/spanishFlu.jpg Graphic file (type jpg)
 <use ./img/spanishFlu.jpg>
 Package pdftex.def Info: ./img/spanishFlu.jpg  used on input line 425.
@@ -810,7 +810,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
  <./img/spanishFlu.jpg>] [70]
 Chapter 45.
-<./img/treatyOfVersailles.jpg, id=2083, 602.25pt x 916.1728pt>
+<./img/treatyOfVersailles.jpg, id=2073, 602.25pt x 916.1728pt>
 File: ./img/treatyOfVersailles.jpg Graphic file (type jpg)
 <use ./img/treatyOfVersailles.jpg>
 Package pdftex.def Info: ./img/treatyOfVersailles.jpg  used on input line 442.
@@ -819,7 +819,7 @@ Package pdftex.def Info: ./img/treatyOfVersailles.jpg  used on input line 442.
 
  <./img/treatyOfVersailles.jpg>]
 Chapter 46.
-<./img/tutankhamon.jpg, id=2088, 501.875pt x 670.505pt>
+<./img/tutankhamon.jpg, id=2078, 501.875pt x 670.505pt>
 File: ./img/tutankhamon.jpg Graphic file (type jpg)
 <use ./img/tutankhamon.jpg>
 Package pdftex.def Info: ./img/tutankhamon.jpg  used on input line 448.
@@ -828,25 +828,25 @@ Package pdftex.def Info: ./img/tutankhamon.jpg  used on input line 448.
 
  <./img/tutankhamon.jpg>]
 Chapter 47.
-<./img/gucciLogo.png, id=2094, 1027.84pt x 1052.93375pt>
-File: ./img/gucciLogo.png Graphic file (type png)
-<use ./img/gucciLogo.png>
-Package pdftex.def Info: ./img/gucciLogo.png  used on input line 459.
+<./img/gucciLogo.jpg, id=2084, 1027.84pt x 1052.93375pt>
+File: ./img/gucciLogo.jpg Graphic file (type jpg)
+<use ./img/gucciLogo.jpg>
+Package pdftex.def Info: ./img/gucciLogo.jpg  used on input line 459.
 (pdftex.def)             Requested size: 56.9055pt x 58.2891pt.
 [73
 
- <./img/gucciLogo.png>]
+ <./img/gucciLogo.jpg>]
 Chapter 48.
-<./img/adidasLogo.png, id=2100, 1284.8pt x 868.24374pt>
-File: ./img/adidasLogo.png Graphic file (type png)
-<use ./img/adidasLogo.png>
-Package pdftex.def Info: ./img/adidasLogo.png  used on input line 467.
+<./img/adidasLogo.jpg, id=2089, 1284.8pt x 868.24374pt>
+File: ./img/adidasLogo.jpg Graphic file (type jpg)
+<use ./img/adidasLogo.jpg>
+Package pdftex.def Info: ./img/adidasLogo.jpg  used on input line 467.
 (pdftex.def)             Requested size: 142.26378pt x 96.12978pt.
 [74
 
- <./img/adidasLogo.png>]
+ <./img/adidasLogo.jpg>]
 Chapter 49.
-<./img/wallStreetCrash.jpg, id=2106, 282.30469pt x 376.40625pt>
+<./img/wallStreetCrash.jpg, id=2094, 282.30469pt x 376.40625pt>
 File: ./img/wallStreetCrash.jpg Graphic file (type jpg)
 <use ./img/wallStreetCrash.jpg>
 Package pdftex.def Info: ./img/wallStreetCrash.jpg  used on input line 473.
@@ -859,12 +859,12 @@ Chapter 50.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 479.
 
-<./img/saltMarch.jpg, id=2112, 481.8pt x 702.37407pt>
+<./img/saltMarch.jpg, id=2100, 481.8pt x 702.37407pt>
 File: ./img/saltMarch.jpg Graphic file (type jpg)
 <use ./img/saltMarch.jpg>
 Package pdftex.def Info: ./img/saltMarch.jpg  used on input line 480.
 (pdftex.def)             Requested size: 85.35826pt x 124.42845pt.
-<./img/fifa1930.jpg, id=2113, 286.1892pt x 433.62pt>
+<./img/fifa1930.jpg, id=2101, 286.1892pt x 433.62pt>
 File: ./img/fifa1930.jpg Graphic file (type jpg)
 <use ./img/fifa1930.jpg>
 Package pdftex.def Info: ./img/fifa1930.jpg  used on input line 485.
@@ -873,27 +873,27 @@ Package pdftex.def Info: ./img/fifa1930.jpg  used on input line 485.
 
  <./img/saltMarch.jpg>] [77 <./img/fifa1930.jpg>]
 Chapter 51.
-<./img/roosevelt.jpg, id=2123, 1023.825pt x 1204.5pt>
+<./img/roosevelt.jpg, id=2111, 1023.825pt x 1204.5pt>
 File: ./img/roosevelt.jpg Graphic file (type jpg)
 <use ./img/roosevelt.jpg>
 Package pdftex.def Info: ./img/roosevelt.jpg  used on input line 491.
 (pdftex.def)             Requested size: 142.26378pt x 167.36069pt.
-<./img/nissanLogo.png, id=2124, 926.46124pt x 242.9075pt>
-File: ./img/nissanLogo.png Graphic file (type png)
-<use ./img/nissanLogo.png>
-Package pdftex.def Info: ./img/nissanLogo.png  used on input line 496.
+<./img/nissanLogo.jpg, id=2112, 926.46124pt x 242.9075pt>
+File: ./img/nissanLogo.jpg Graphic file (type jpg)
+<use ./img/nissanLogo.jpg>
+Package pdftex.def Info: ./img/nissanLogo.jpg  used on input line 496.
 (pdftex.def)             Requested size: 284.52756pt x 74.6pt.
 [78
 
  <./img/roosevelt.jpg>]
-<./img/lacosteLogo.png, id=2130, 1927.2pt x 928.46875pt>
-File: ./img/lacosteLogo.png Graphic file (type png)
-<use ./img/lacosteLogo.png>
-Package pdftex.def Info: ./img/lacosteLogo.png  used on input line 509.
+<./img/lacosteLogo.jpg, id=2118, 1927.2pt x 928.46875pt>
+File: ./img/lacosteLogo.jpg Graphic file (type jpg)
+<use ./img/lacosteLogo.jpg>
+Package pdftex.def Info: ./img/lacosteLogo.jpg  used on input line 509.
 (pdftex.def)             Requested size: 142.26378pt x 68.5271pt.
- [79 <./img/nissanLogo.png>] [80 <./img/lacosteLogo.png>]
+ [79 <./img/nissanLogo.jpg>] [80 <./img/lacosteLogo.jpg>]
 Chapter 52.
-<./img/longMarch.jpg, id=2141, 436.63126pt x 299.61937pt>
+<./img/longMarch.jpg, id=2127, 436.63126pt x 299.61937pt>
 File: ./img/longMarch.jpg Graphic file (type jpg)
 <use ./img/longMarch.jpg>
 Package pdftex.def Info: ./img/longMarch.jpg  used on input line 516.
@@ -902,16 +902,16 @@ Package pdftex.def Info: ./img/longMarch.jpg  used on input line 516.
 
  <./img/longMarch.jpg>]
 Chapter 53.
-<./img/raybanLogo.png, id=2146, 1927.2pt x 1038.88126pt>
-File: ./img/raybanLogo.png Graphic file (type png)
-<use ./img/raybanLogo.png>
-Package pdftex.def Info: ./img/raybanLogo.png  used on input line 522.
+<./img/raybanLogo.jpg, id=2132, 1927.2pt x 1038.88126pt>
+File: ./img/raybanLogo.jpg Graphic file (type jpg)
+<use ./img/raybanLogo.jpg>
+Package pdftex.def Info: ./img/raybanLogo.jpg  used on input line 522.
 (pdftex.def)             Requested size: 142.26378pt x 76.67627pt.
 [82
 
- <./img/raybanLogo.png>]
+ <./img/raybanLogo.jpg>]
 Chapter 54.
-<./img/gerInvadesPol.jpg, id=2152, 578.16pt x 326.1786pt>
+<./img/gerInvadesPol.jpg, id=2137, 578.16pt x 326.1786pt>
 File: ./img/gerInvadesPol.jpg Graphic file (type jpg)
 <use ./img/gerInvadesPol.jpg>
 Package pdftex.def Info: ./img/gerInvadesPol.jpg  used on input line 529.
@@ -924,22 +924,22 @@ Chapter 55.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 535.
 
-<./img/mcdonaldsLogo.png, id=2158, 1027.84pt x 899.36pt>
-File: ./img/mcdonaldsLogo.png Graphic file (type png)
-<use ./img/mcdonaldsLogo.png>
-Package pdftex.def Info: ./img/mcdonaldsLogo.png  used on input line 536.
+<./img/mcdonaldsLogo.jpg, id=2143, 1027.84pt x 899.36pt>
+File: ./img/mcdonaldsLogo.jpg Graphic file (type jpg)
+<use ./img/mcdonaldsLogo.jpg>
+Package pdftex.def Info: ./img/mcdonaldsLogo.jpg  used on input line 536.
 (pdftex.def)             Requested size: 341.43306pt x 298.75212pt.
 [84
 
- <./img/mcdonaldsLogo.png>]
-<./img/dunkirk.jpg, id=2166, 1927.2pt x 1156.32pt>
+ <./img/mcdonaldsLogo.jpg>]
+<./img/dunkirk.jpg, id=2150, 1927.2pt x 1156.32pt>
 File: ./img/dunkirk.jpg Graphic file (type jpg)
 <use ./img/dunkirk.jpg>
 Package pdftex.def Info: ./img/dunkirk.jpg  used on input line 540.
 (pdftex.def)             Requested size: 227.62204pt x 136.56456pt.
  [85 <./img/dunkirk.jpg>]
 Chapter 56.
-<./img/battleOfMoscow.jpg, id=2171, 519.44063pt x 263.48438pt>
+<./img/battleOfMoscow.jpg, id=2155, 519.44063pt x 263.48438pt>
 File: ./img/battleOfMoscow.jpg Graphic file (type jpg)
 <use ./img/battleOfMoscow.jpg>
 Package pdftex.def Info: ./img/battleOfMoscow.jpg  used on input line 547.
@@ -950,7 +950,7 @@ Overfull \hbox (26.07921pt too wide) in paragraph at lines 548--550
 ing the Moscow{Leningrad
  []
 
-<./img/attackOnPearlHarbor.jpg, id=2172, 154.176pt x 109.3686pt>
+<./img/attackOnPearlHarbor.jpg, id=2156, 154.176pt x 109.3686pt>
 File: ./img/attackOnPearlHarbor.jpg Graphic file (type jpg)
 <use ./img/attackOnPearlHarbor.jpg>
 Package pdftex.def Info: ./img/attackOnPearlHarbor.jpg  used on input line 552.
@@ -964,7 +964,7 @@ Chapter 57.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 558.
 
-<./img/youngHawking.jpg, id=2182, 236.885pt x 339.2675pt>
+<./img/youngHawking.jpg, id=2166, 236.885pt x 339.2675pt>
 File: ./img/youngHawking.jpg Graphic file (type jpg)
 <use ./img/youngHawking.jpg>
 Package pdftex.def Info: ./img/youngHawking.jpg  used on input line 559.
@@ -973,7 +973,7 @@ Package pdftex.def Info: ./img/youngHawking.jpg  used on input line 559.
 
  <./img/youngHawking.jpg>]
 Chapter 58.
-<./img/endww2.jpg, id=2188, 605.26125pt x 526.21594pt>
+<./img/endww2.jpg, id=2172, 605.26125pt x 526.21594pt>
 File: ./img/endww2.jpg Graphic file (type jpg)
 <use ./img/endww2.jpg>
 Package pdftex.def Info: ./img/endww2.jpg  used on input line 570.
@@ -982,68 +982,67 @@ Package pdftex.def Info: ./img/endww2.jpg  used on input line 570.
 
 ] [90 <./img/endww2.jpg>]
 Chapter 59.
-<./img/sonylogo.png, id=2198, 1927.2pt x 347.2975pt>
-File: ./img/sonylogo.png Graphic file (type png)
-<use ./img/sonylogo.png>
-Package pdftex.def Info: ./img/sonylogo.png  used on input line 576.
+<./img/sonylogo.jpg, id=2182, 1927.2pt x 347.2975pt>
+File: ./img/sonylogo.jpg Graphic file (type jpg)
+<use ./img/sonylogo.jpg>
+Package pdftex.def Info: ./img/sonylogo.jpg  used on input line 576.
 (pdftex.def)             Requested size: 284.52756pt x 51.27098pt.
-<./img/hiroNagabombing.jpg, id=2199, 1445.4pt x 857.45343pt>
+<./img/hiroNagabombing.jpg, id=2183, 1445.4pt x 857.45343pt>
 File: ./img/hiroNagabombing.jpg Graphic file (type jpg)
 <use ./img/hiroNagabombing.jpg>
 Package pdftex.def Info: ./img/hiroNagabombing.jpg  used on input line 580.
 (pdftex.def)             Requested size: 227.62204pt x 135.02345pt.
 [91
 
- <./img/sonylogo.png> <./img/hiroNagabombing.jpg>]
-<./img/unicefLogo.png, id=2205, 1927.2pt x 470.75874pt>
-File: ./img/unicefLogo.png Graphic file (type png)
-<use ./img/unicefLogo.png>
-Package pdftex.def Info: ./img/unicefLogo.png  used on input line 585.
+ <./img/sonylogo.jpg> <./img/hiroNagabombing.jpg>]
+<./img/unicefLogo.jpg, id=2188, 1927.2pt x 470.75874pt>
+File: ./img/unicefLogo.jpg Graphic file (type jpg)
+<use ./img/unicefLogo.jpg>
+Package pdftex.def Info: ./img/unicefLogo.jpg  used on input line 585.
 (pdftex.def)             Requested size: 142.26378pt x 34.74509pt.
- [92 <./img/unicefLogo.png>]
+ [92 <./img/unicefLogo.jpg>]
 Chapter 60.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 591.
 
-<./img/pakistanFlag.png, id=2212, 963.6pt x 642.14906pt>
-File: ./img/pakistanFlag.png Graphic file (type png)
-<use ./img/pakistanFlag.png>
-Package pdftex.def Info: ./img/pakistanFlag.png  used on input line 592.
+<./img/pakistanFlag.jpg, id=2194, 1284.8pt x 856.19875pt>
+File: ./img/pakistanFlag.jpg Graphic file (type jpg)
+<use ./img/pakistanFlag.jpg>
+Package pdftex.def Info: ./img/pakistanFlag.jpg  used on input line 592.
 (pdftex.def)             Requested size: 99.58464pt x 66.3547pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 596.
 
-<./img/independenceIndia.jpg, id=2214, 828.09375pt x 385.44pt>
+<./img/independenceIndia.jpg, id=2196, 828.09375pt x 385.44pt>
 File: ./img/independenceIndia.jpg Graphic file (type jpg)
 <use ./img/independenceIndia.jpg>
 Package pdftex.def Info: ./img/independenceIndia.jpg  used on input line 597.
 (pdftex.def)             Requested size: 341.43306pt x 158.92538pt.
 [93
 
- <./img/pakistanFlag.png (PNG copy)>]
-<./img/CIALogo.png, id=2220, 1027.84pt x 1027.84pt>
-File: ./img/CIALogo.png Graphic file (type png)
-<use ./img/CIALogo.png>
-Package pdftex.def Info: ./img/CIALogo.png  used on input line 602.
+ <./img/pakistanFlag.jpg>]
+<./img/CIALogo.jpg, id=2202, 1027.84pt x 1027.84pt>
+File: ./img/CIALogo.jpg Graphic file (type jpg)
+<use ./img/CIALogo.jpg>
+Package pdftex.def Info: ./img/CIALogo.jpg  used on input line 602.
 (pdftex.def)             Requested size: 142.26378pt x 142.24985pt.
- [94 <./img/independenceIndia.jpg>]
-[95 <./img/CIALogo.png>]
+ [94 <./img/independenceIndia.jpg>] [95 <./img/CIALogo.jpg>]
 Chapter 61.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 608.
 
-<./img/gandhiDead.jpg, id=2232, 578.16pt x 325.215pt>
+<./img/gandhiDead.jpg, id=2213, 578.16pt x 325.215pt>
 File: ./img/gandhiDead.jpg Graphic file (type jpg)
 <use ./img/gandhiDead.jpg>
 Package pdftex.def Info: ./img/gandhiDead.jpg  used on input line 609.
 (pdftex.def)             Requested size: 341.43306pt x 192.05383pt.
-<./img/pumaLogo.png, id=2233, 1927.2pt x 957.5775pt>
-File: ./img/pumaLogo.png Graphic file (type png)
-<use ./img/pumaLogo.png>
-Package pdftex.def Info: ./img/pumaLogo.png  used on input line 614.
+<./img/pumaLogo.jpg, id=2214, 1927.2pt x 957.5775pt>
+File: ./img/pumaLogo.jpg Graphic file (type jpg)
+<use ./img/pumaLogo.jpg>
+Package pdftex.def Info: ./img/pumaLogo.jpg  used on input line 614.
 (pdftex.def)             Requested size: 142.26378pt x 70.67552pt.
 [96
 
@@ -1053,12 +1052,12 @@ Overfull \hbox (6.24461pt too wide) in paragraph at lines 615--619
  "Adi", founded
  []
 
-[97 <./img/pumaLogo.png>]
+[97 <./img/pumaLogo.jpg>]
 Chapter 62.
-<./img/legoLogo.png, id=2245, 1027.84pt x 1027.84pt>
-File: ./img/legoLogo.png Graphic file (type png)
-<use ./img/legoLogo.png>
-Package pdftex.def Info: ./img/legoLogo.png  used on input line 623.
+<./img/legoLogo.jpg, id=2225, 1027.84pt x 1027.84pt>
+File: ./img/legoLogo.jpg Graphic file (type jpg)
+<use ./img/legoLogo.jpg>
+Package pdftex.def Info: ./img/legoLogo.jpg  used on input line 623.
 (pdftex.def)             Requested size: 113.81102pt x 113.79987pt.
 
 Overfull \hbox (4.01198pt too wide) in paragraph at lines 624--626
@@ -1068,9 +1067,9 @@ nsen (1891{1958),
 
 [98
 
- <./img/legoLogo.png>] [99]
+ <./img/legoLogo.jpg>] [99]
 Chapter 63.
-<./img/koreanWar.jpg, id=2254, 376.40625pt x 301.8778pt>
+<./img/koreanWar.jpg, id=2234, 376.40625pt x 301.8778pt>
 File: ./img/koreanWar.jpg Graphic file (type jpg)
 <use ./img/koreanWar.jpg>
 Package pdftex.def Info: ./img/koreanWar.jpg  used on input line 630.
@@ -1079,20 +1078,20 @@ Package pdftex.def Info: ./img/koreanWar.jpg  used on input line 630.
 
  <./img/koreanWar.jpg>]
 Chapter 64.
-<./img/NSALogo.png, id=2259, 1027.84pt x 1027.84pt>
-File: ./img/NSALogo.png Graphic file (type png)
-<use ./img/NSALogo.png>
-Package pdftex.def Info: ./img/NSALogo.png  used on input line 637.
+<./img/NSALogo.jpg, id=2239, 1027.84pt x 1027.84pt>
+File: ./img/NSALogo.jpg Graphic file (type jpg)
+<use ./img/NSALogo.jpg>
+Package pdftex.def Info: ./img/NSALogo.jpg  used on input line 637.
 (pdftex.def)             Requested size: 85.35826pt x 85.3499pt.
 [101
 
- <./img/NSALogo.png>]
+ <./img/NSALogo.jpg>]
 Chapter 65.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 644.
 
-<./img/lotrbook1.jpg, id=2266, 222.8325pt x 335.00156pt>
+<./img/lotrbook1.jpg, id=2245, 222.8325pt x 335.00156pt>
 File: ./img/lotrbook1.jpg Graphic file (type jpg)
 <use ./img/lotrbook1.jpg>
 Package pdftex.def Info: ./img/lotrbook1.jpg  used on input line 645.
@@ -1101,16 +1100,16 @@ Package pdftex.def Info: ./img/lotrbook1.jpg  used on input line 645.
 
  <./img/lotrbook1.jpg>] [103]
 Chapter 66.
-<./img/bandaiNamcoLogo.png, id=2277, 1284.8pt x 1041.8925pt>
-File: ./img/bandaiNamcoLogo.png Graphic file (type png)
-<use ./img/bandaiNamcoLogo.png>
-Package pdftex.def Info: ./img/bandaiNamcoLogo.png  used on input line 657.
+<./img/bandaiNamcoLogo.jpg, id=2256, 1284.8pt x 1041.8925pt>
+File: ./img/bandaiNamcoLogo.jpg Graphic file (type jpg)
+<use ./img/bandaiNamcoLogo.jpg>
+Package pdftex.def Info: ./img/bandaiNamcoLogo.jpg  used on input line 657.
 (pdftex.def)             Requested size: 142.26378pt x 115.35573pt.
 [104
 
- <./img/bandaiNamcoLogo.png>]
+ <./img/bandaiNamcoLogo.jpg>]
 Chapter 67.
-<./img/sputnik1.jpg, id=2283, 67.452pt x 55.1661pt>
+<./img/sputnik1.jpg, id=2261, 67.452pt x 55.1661pt>
 File: ./img/sputnik1.jpg Graphic file (type jpg)
 <use ./img/sputnik1.jpg>
 Package pdftex.def Info: ./img/sputnik1.jpg  used on input line 666.
@@ -1119,10 +1118,10 @@ Package pdftex.def Info: ./img/sputnik1.jpg  used on input line 666.
 
  <./img/sputnik1.jpg>]
 Chapter 68.
-<./img/nasaLogo.png, id=2288, 1027.84pt x 859.21pt>
-File: ./img/nasaLogo.png Graphic file (type png)
-<use ./img/nasaLogo.png>
-Package pdftex.def Info: ./img/nasaLogo.png  used on input line 673.
+<./img/nasaLogo.jpg, id=2266, 1027.84pt x 859.21pt>
+File: ./img/nasaLogo.jpg Graphic file (type jpg)
+<use ./img/nasaLogo.jpg>
+Package pdftex.def Info: ./img/nasaLogo.jpg  used on input line 673.
 (pdftex.def)             Requested size: 142.26378pt x 118.91197pt.
 
 Overfull \hbox (1.84723pt too wide) in paragraph at lines 674--676
@@ -1132,14 +1131,14 @@ ro-gram; ex-plor-ing bod-
 
 [106
 
- <./img/nasaLogo.png>]
+ <./img/nasaLogo.jpg>]
 Chapter 69.
-<./img/cubaMissileCsis.jpg, id=2294, 587.19376pt x 329.73187pt>
+<./img/cubaMissileCsis.jpg, id=2271, 587.19376pt x 329.73187pt>
 File: ./img/cubaMissileCsis.jpg Graphic file (type jpg)
 <use ./img/cubaMissileCsis.jpg>
 Package pdftex.def Info: ./img/cubaMissileCsis.jpg  used on input line 680.
 (pdftex.def)             Requested size: 227.62204pt x 127.81505pt.
-<./img/youngNewell.jpg, id=2295, 301.125pt x 240.9pt>
+<./img/youngNewell.jpg, id=2272, 301.125pt x 240.9pt>
 File: ./img/youngNewell.jpg Graphic file (type jpg)
 <use ./img/youngNewell.jpg>
 Package pdftex.def Info: ./img/youngNewell.jpg  used on input line 685.
@@ -1148,25 +1147,25 @@ Package pdftex.def Info: ./img/youngNewell.jpg  used on input line 685.
 
  <./img/cubaMissileCsis.jpg>] [108 <./img/youngNewell.jpg>]
 Chapter 70.
-<./img/jfk.png, id=2305, 279.444pt x 186.2157pt>
-File: ./img/jfk.png Graphic file (type png)
-<use ./img/jfk.png>
-Package pdftex.def Info: ./img/jfk.png  used on input line 692.
-(pdftex.def)             Requested size: 142.26378pt x 94.8011pt.
+<./img/jfk.jpg, id=2282, 1164.35pt x 775.89874pt>
+File: ./img/jfk.jpg Graphic file (type jpg)
+<use ./img/jfk.jpg>
+Package pdftex.def Info: ./img/jfk.jpg  used on input line 692.
+(pdftex.def)             Requested size: 142.26378pt x 94.79684pt.
 [109
 
- <./img/jfk.png>]
+ <./img/jfk.jpg>]
 Chapter 71.
-<./img/nikeLogo.png, id=2310, 1927.2pt x 693.59125pt>
-File: ./img/nikeLogo.png Graphic file (type png)
-<use ./img/nikeLogo.png>
-Package pdftex.def Info: ./img/nikeLogo.png  used on input line 699.
+<./img/nikeLogo.jpg, id=2287, 1927.2pt x 693.59125pt>
+File: ./img/nikeLogo.jpg Graphic file (type jpg)
+<use ./img/nikeLogo.jpg>
+Package pdftex.def Info: ./img/nikeLogo.jpg  used on input line 699.
 (pdftex.def)             Requested size: 142.26378pt x 51.19159pt.
 [110
 
- <./img/nikeLogo.png>]
+ <./img/nikeLogo.jpg>]
 Chapter 72.
-<./img/LutherKingAssassination.jpg, id=2316, 702.625pt x 488.82625pt>
+<./img/LutherKingAssassination.jpg, id=2292, 702.625pt x 488.82625pt>
 File: ./img/LutherKingAssassination.jpg Graphic file (type jpg)
 <use ./img/LutherKingAssassination.jpg>
 Package pdftex.def Info: ./img/LutherKingAssassination.jpg  used on input line 
@@ -1176,43 +1175,43 @@ Package pdftex.def Info: ./img/LutherKingAssassination.jpg  used on input line
 
  <./img/LutherKingAssassination.jpg>]
 Chapter 73.
-<./img/primarkLogo.png, id=2321, 953.5625pt x 505.89pt>
-File: ./img/primarkLogo.png Graphic file (type png)
-<use ./img/primarkLogo.png>
-Package pdftex.def Info: ./img/primarkLogo.png  used on input line 712.
+<./img/primarkLogo.jpg, id=2297, 953.5625pt x 505.89pt>
+File: ./img/primarkLogo.jpg Graphic file (type jpg)
+<use ./img/primarkLogo.jpg>
+Package pdftex.def Info: ./img/primarkLogo.jpg  used on input line 712.
 (pdftex.def)             Requested size: 227.62204pt x 120.75993pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 718.
 
-<./img/apollo11.jpg, id=2323, 1027.84pt x 562.1pt>
+<./img/apollo11.jpg, id=2299, 1027.84pt x 562.1pt>
 File: ./img/apollo11.jpg Graphic file (type jpg)
 <use ./img/apollo11.jpg>
 Package pdftex.def Info: ./img/apollo11.jpg  used on input line 719.
 (pdftex.def)             Requested size: 284.52756pt x 155.60292pt.
 [112
 
- <./img/primarkLogo.png>] [113 <./img/apollo11.jpg>]
+ <./img/primarkLogo.jpg>] [113 <./img/apollo11.jpg>]
 Chapter 74.
-<./img/microsoftLogo.png, id=2333, 1927.2pt x 411.5375pt>
-File: ./img/microsoftLogo.png Graphic file (type png)
-<use ./img/microsoftLogo.png>
-Package pdftex.def Info: ./img/microsoftLogo.png  used on input line 725.
+<./img/microsoftLogo.jpg, id=2309, 1927.2pt x 411.5375pt>
+File: ./img/microsoftLogo.jpg Graphic file (type jpg)
+<use ./img/microsoftLogo.jpg>
+Package pdftex.def Info: ./img/microsoftLogo.jpg  used on input line 725.
 (pdftex.def)             Requested size: 142.26378pt x 30.37418pt.
-<./img/greenmarch.jpg, id=2334, 481.8pt x 271.0125pt>
+<./img/greenmarch.jpg, id=2310, 481.8pt x 271.0125pt>
 File: ./img/greenmarch.jpg Graphic file (type jpg)
 <use ./img/greenmarch.jpg>
 Package pdftex.def Info: ./img/greenmarch.jpg  used on input line 729.
 (pdftex.def)             Requested size: 341.43306pt x 192.06044pt.
 [114
 
- <./img/microsoftLogo.png>] [115 <./img/greenmarch.jpg>]
+ <./img/microsoftLogo.jpg>] [115 <./img/greenmarch.jpg>]
 Chapter 75.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 734.
 
-<./img/voyagerProgram.jpg, id=2346, 893.3375pt x 501.875pt>
+<./img/voyagerProgram.jpg, id=2321, 893.3375pt x 501.875pt>
 File: ./img/voyagerProgram.jpg Graphic file (type jpg)
 <use ./img/voyagerProgram.jpg>
 Package pdftex.def Info: ./img/voyagerProgram.jpg  used on input line 735.
@@ -1221,7 +1220,7 @@ Package pdftex.def Info: ./img/voyagerProgram.jpg  used on input line 735.
 
  <./img/voyagerProgram.jpg>]
 Chapter 76.
-<./img/sphinxRestoration.jpg, id=2352, 542.77782pt x 752.8125pt>
+<./img/sphinxRestoration.jpg, id=2327, 542.77782pt x 752.8125pt>
 File: ./img/sphinxRestoration.jpg Graphic file (type jpg)
 <use ./img/sphinxRestoration.jpg>
 Package pdftex.def Info: ./img/sphinxRestoration.jpg  used on input line 741.
@@ -1230,53 +1229,53 @@ Package pdftex.def Info: ./img/sphinxRestoration.jpg  used on input line 741.
 
  <./img/sphinxRestoration.jpg>]
 Chapter 77.
-<./img/windows.png, id=2357, 225.84375pt x 169.38281pt>
-File: ./img/windows.png Graphic file (type png)
-<use ./img/windows.png>
-Package pdftex.def Info: ./img/windows.png  used on input line 749.
-(pdftex.def)             Requested size: 199.16928pt x 149.38556pt.
+<./img/windows.jpg, id=2332, 301.125pt x 225.84375pt>
+File: ./img/windows.jpg Graphic file (type jpg)
+<use ./img/windows.jpg>
+Package pdftex.def Info: ./img/windows.jpg  used on input line 749.
+(pdftex.def)             Requested size: 199.16928pt x 149.38126pt.
 Excluding 'comment' comment. [118
 
- <./img/windows.png (PNG copy)>]
+ <./img/windows.jpg>]
 Chapter 78.
-<./img/dolce&gabannaLogo.png, id=2362, 1927.2pt x 213.79875pt>
-File: ./img/dolce&gabannaLogo.png Graphic file (type png)
-<use ./img/dolce&gabannaLogo.png>
-Package pdftex.def Info: ./img/dolce&gabannaLogo.png  used on input line 759.
+<./img/dolce&gabannaLogo.jpg, id=2337, 1927.2pt x 213.79875pt>
+File: ./img/dolce&gabannaLogo.jpg Graphic file (type jpg)
+<use ./img/dolce&gabannaLogo.jpg>
+Package pdftex.def Info: ./img/dolce&gabannaLogo.jpg  used on input line 759.
 (pdftex.def)             Requested size: 227.62204pt x 25.25021pt.
-<./img/swatchLogo.png, id=2363, 1927.2pt x 343.2825pt>
-File: ./img/swatchLogo.png Graphic file (type png)
-<use ./img/swatchLogo.png>
-Package pdftex.def Info: ./img/swatchLogo.png  used on input line 762.
+<./img/swatchLogo.jpg, id=2338, 1927.2pt x 343.2825pt>
+File: ./img/swatchLogo.jpg Graphic file (type jpg)
+<use ./img/swatchLogo.jpg>
+Package pdftex.def Info: ./img/swatchLogo.jpg  used on input line 762.
 (pdftex.def)             Requested size: 284.52756pt x 50.67824pt.
 [119
 
- <./img/dolce&gabannaLogo.png>] [120 <./img/swatchLogo.png>]
+ <./img/dolce&gabannaLogo.jpg>] [120 <./img/swatchLogo.jpg>]
 Chapter 79.
-<./img/chernobyl.jpg, id=2375, 1053.9375pt x 593.21625pt>
+<./img/chernobyl.jpg, id=2348, 1053.9375pt x 593.21625pt>
 File: ./img/chernobyl.jpg Graphic file (type jpg)
 <use ./img/chernobyl.jpg>
 Package pdftex.def Info: ./img/chernobyl.jpg  used on input line 772.
 (pdftex.def)             Requested size: 227.62204pt x 128.11832pt.
-<./img/fromSoftwareLogo.png, id=2376, 1927.2pt x 166.6225pt>
-File: ./img/fromSoftwareLogo.png Graphic file (type png)
-<use ./img/fromSoftwareLogo.png>
-Package pdftex.def Info: ./img/fromSoftwareLogo.png  used on input line 777.
+<./img/fromSoftwareLogo.jpg, id=2349, 1927.2pt x 166.6225pt>
+File: ./img/fromSoftwareLogo.jpg Graphic file (type jpg)
+<use ./img/fromSoftwareLogo.jpg>
+Package pdftex.def Info: ./img/fromSoftwareLogo.jpg  used on input line 777.
 (pdftex.def)             Requested size: 284.52756pt x 24.5982pt.
 [121
 
- <./img/chernobyl.jpg>] [122 <./img/fromSoftwareLogo.png>]
+ <./img/chernobyl.jpg>] [122 <./img/fromSoftwareLogo.jpg>]
 Chapter 80.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 783.
 
-<./img/www.jpg, id=2387, 278.54062pt x 188.20313pt>
+<./img/www.jpg, id=2359, 278.54062pt x 188.20313pt>
 File: ./img/www.jpg Graphic file (type jpg)
 <use ./img/www.jpg>
 Package pdftex.def Info: ./img/www.jpg  used on input line 784.
 (pdftex.def)             Requested size: 113.81102pt x 76.8967pt.
-<./img/tiananmenMassacre.jpg, id=2388, 578.16pt x 387.69844pt>
+<./img/tiananmenMassacre.jpg, id=2360, 578.16pt x 387.69844pt>
 File: ./img/tiananmenMassacre.jpg Graphic file (type jpg)
 <use ./img/tiananmenMassacre.jpg>
 Package pdftex.def Info: ./img/tiananmenMassacre.jpg  used on input line 788.
@@ -1284,19 +1283,19 @@ Package pdftex.def Info: ./img/tiananmenMassacre.jpg  used on input line 788.
 [123
 
  <./img/www.jpg>]
-<./img/fallBerlinWall.jpg, id=2394, 578.16pt x 326.1786pt>
+<./img/fallBerlinWall.jpg, id=2366, 578.16pt x 326.1786pt>
 File: ./img/fallBerlinWall.jpg Graphic file (type jpg)
 <use ./img/fallBerlinWall.jpg>
 Package pdftex.def Info: ./img/fallBerlinWall.jpg  used on input line 792.
 (pdftex.def)             Requested size: 284.52756pt x 160.52072pt.
  [124 <./img/tiananmenMassacre.jpg>] [125 <./img/fallBerlinWall.jpg>]
 Chapter 81.
-<./img/hubble.jpg, id=2403, 963.6pt x 1123.94907pt>
+<./img/hubble.jpg, id=2375, 963.6pt x 1123.94907pt>
 File: ./img/hubble.jpg Graphic file (type jpg)
 <use ./img/hubble.jpg>
 Package pdftex.def Info: ./img/hubble.jpg  used on input line 799.
 (pdftex.def)             Requested size: 170.71652pt x 199.11218pt.
-<./img/iraqKuwaitWar.jpg, id=2404, 480.29437pt x 360.59718pt>
+<./img/iraqKuwaitWar.jpg, id=2376, 480.29437pt x 360.59718pt>
 File: ./img/iraqKuwaitWar.jpg Graphic file (type jpg)
 <use ./img/iraqKuwaitWar.jpg>
 Package pdftex.def Info: ./img/iraqKuwaitWar.jpg  used on input line 803.
@@ -1305,7 +1304,7 @@ Package pdftex.def Info: ./img/iraqKuwaitWar.jpg  used on input line 803.
 
  <./img/hubble.jpg>] [127 <./img/iraqKuwaitWar.jpg>]
 Chapter 82.
-<./img/ussr.jpg, id=2414, 207.02344pt x 137.7647pt>
+<./img/ussr.jpg, id=2386, 207.02344pt x 137.7647pt>
 File: ./img/ussr.jpg Graphic file (type jpg)
 <use ./img/ussr.jpg>
 Package pdftex.def Info: ./img/ussr.jpg  used on input line 809.
@@ -1314,42 +1313,42 @@ Package pdftex.def Info: ./img/ussr.jpg  used on input line 809.
 
  <./img/ussr.jpg>]
 Chapter 83.
-<./img/europeFlag.png, id=2419, 963.6pt x 642.14906pt>
-File: ./img/europeFlag.png Graphic file (type png)
-<use ./img/europeFlag.png>
-Package pdftex.def Info: ./img/europeFlag.png  used on input line 816.
-(pdftex.def)             Requested size: 199.16928pt x 132.71922pt.
-<./img/PSR_B1257_12_C.jpg, id=2420, 451.6875pt x 401.5pt>
+<./img/europeFlag.jpg, id=2391, 1284.8pt x 856.19875pt>
+File: ./img/europeFlag.jpg Graphic file (type jpg)
+<use ./img/europeFlag.jpg>
+Package pdftex.def Info: ./img/europeFlag.jpg  used on input line 816.
+(pdftex.def)             Requested size: 199.16928pt x 132.72249pt.
+<./img/PSR_B1257_12_C.jpg, id=2392, 451.6875pt x 401.5pt>
 File: ./img/PSR_B1257_12_C.jpg Graphic file (type jpg)
 <use ./img/PSR_B1257_12_C.jpg>
 Package pdftex.def Info: ./img/PSR_B1257_12_C.jpg  used on input line 821.
 (pdftex.def)             Requested size: 256.0748pt x 227.6321pt.
 [129
 
- <./img/europeFlag.png (PNG copy)>] [130 <./img/PSR_B1257_12_C.jpg>]
+ <./img/europeFlag.jpg>] [130 <./img/PSR_B1257_12_C.jpg>]
 Chapter 84.
-<./img/yahooLogo.png, id=2429, 1927.2pt x 455.7025pt>
-File: ./img/yahooLogo.png Graphic file (type png)
-<use ./img/yahooLogo.png>
-Package pdftex.def Info: ./img/yahooLogo.png  used on input line 827.
+<./img/yahooLogo.jpg, id=2401, 1927.2pt x 455.7025pt>
+File: ./img/yahooLogo.jpg Graphic file (type jpg)
+<use ./img/yahooLogo.jpg>
+Package pdftex.def Info: ./img/yahooLogo.jpg  used on input line 827.
 (pdftex.def)             Requested size: 142.26378pt x 33.63383pt.
-<./img/mandela.jpg, id=2430, 170.88844pt x 225.84375pt>
+<./img/mandela.jpg, id=2402, 170.88844pt x 225.84375pt>
 File: ./img/mandela.jpg Graphic file (type jpg)
 <use ./img/mandela.jpg>
 Package pdftex.def Info: ./img/mandela.jpg  used on input line 832.
 (pdftex.def)             Requested size: 113.81102pt x 150.41508pt.
 [131
 
- <./img/yahooLogo.png>]
+ <./img/yahooLogo.jpg>]
 Overfull \hbox (14.84236pt too wide) in paragraph at lines 833--835
 []\OT1/cmr/m/n/10.95 Millions queued in lines over a four-day vot-ing pe-riod. 
 Al-to-gether 19,726,579
  []
 
-<./img/amazonLogo.png, id=2436, 1927.2pt x 582.175pt>
-File: ./img/amazonLogo.png Graphic file (type png)
-<use ./img/amazonLogo.png>
-Package pdftex.def Info: ./img/amazonLogo.png  used on input line 837.
+<./img/amazonLogo.jpg, id=2407, 1927.2pt x 582.175pt>
+File: ./img/amazonLogo.jpg Graphic file (type jpg)
+<use ./img/amazonLogo.jpg>
+Package pdftex.def Info: ./img/amazonLogo.jpg  used on input line 837.
 (pdftex.def)             Requested size: 227.62204pt x 68.75645pt.
 [132 <./img/mandela.jpg>]
 Overfull \hbox (3.23627pt too wide) in paragraph at lines 838--840
@@ -1357,48 +1356,48 @@ Overfull \hbox (3.23627pt too wide) in paragraph at lines 838--840
 soft-ware, video
  []
 
-[133 <./img/amazonLogo.png>]
+[133 <./img/amazonLogo.jpg>]
 Chapter 85.
-<./img/coplogo.png, id=2447, 225.84375pt x 125.71968pt>
-File: ./img/coplogo.png Graphic file (type png)
-<use ./img/coplogo.png>
-Package pdftex.def Info: ./img/coplogo.png  used on input line 844.
-(pdftex.def)             Requested size: 227.62204pt x 126.71689pt.
-<./img/internetExplorer.jpg, id=2448, 451.6875pt x 340.27126pt>
+<./img/coplogo.jpg, id=2417, 301.125pt x 167.62625pt>
+File: ./img/coplogo.jpg Graphic file (type jpg)
+<use ./img/coplogo.jpg>
+Package pdftex.def Info: ./img/coplogo.jpg  used on input line 844.
+(pdftex.def)             Requested size: 227.62204pt x 126.71432pt.
+<./img/internetExplorer.jpg, id=2418, 451.6875pt x 340.27126pt>
 File: ./img/internetExplorer.jpg Graphic file (type jpg)
 <use ./img/internetExplorer.jpg>
 Package pdftex.def Info: ./img/internetExplorer.jpg  used on input line 849.
 (pdftex.def)             Requested size: 227.62204pt x 171.47997pt.
 [134
 
- <./img/coplogo.png>]
-<./img/ebayLogo.png, id=2454, 1927.2pt x 770.88pt>
-File: ./img/ebayLogo.png Graphic file (type png)
-<use ./img/ebayLogo.png>
-Package pdftex.def Info: ./img/ebayLogo.png  used on input line 854.
+ <./img/coplogo.jpg>]
+<./img/ebayLogo.jpg, id=2423, 1927.2pt x 770.88pt>
+File: ./img/ebayLogo.jpg Graphic file (type jpg)
+<use ./img/ebayLogo.jpg>
+Package pdftex.def Info: ./img/ebayLogo.jpg  used on input line 854.
 (pdftex.def)             Requested size: 142.26378pt x 56.89601pt.
- [135 <./img/internetExplorer.jpg>] [136 <./img/ebayLogo.png>]
+ [135 <./img/internetExplorer.jpg>] [136 <./img/ebayLogo.jpg>]
 Chapter 86.
-<./img/dollySheep.jpg, id=2464, 728.7225pt x 512.66531pt>
+<./img/dollySheep.jpg, id=2432, 728.7225pt x 512.66531pt>
 File: ./img/dollySheep.jpg Graphic file (type jpg)
 <use ./img/dollySheep.jpg>
 Package pdftex.def Info: ./img/dollySheep.jpg  used on input line 863.
 (pdftex.def)             Requested size: 256.0748pt x 180.1474pt.
-<./img/valveLogo.png, id=2465, 1927.2pt x 534.99875pt>
-File: ./img/valveLogo.png Graphic file (type png)
-<use ./img/valveLogo.png>
-Package pdftex.def Info: ./img/valveLogo.png  used on input line 868.
+<./img/valveLogo.jpg, id=2433, 1927.2pt x 534.99875pt>
+File: ./img/valveLogo.jpg Graphic file (type jpg)
+<use ./img/valveLogo.jpg>
+Package pdftex.def Info: ./img/valveLogo.jpg  used on input line 868.
 (pdftex.def)             Requested size: 284.52756pt x 78.98102pt.
 [137
 
- <./img/dollySheep.jpg>] [138 <./img/valveLogo.png>]
+ <./img/dollySheep.jpg>] [138 <./img/valveLogo.jpg>]
 Chapter 87.
-<./img/googlebeta.jpg, id=2476, 48.6618pt x 33.2442pt>
+<./img/googlebeta.jpg, id=2443, 48.6618pt x 33.2442pt>
 File: ./img/googlebeta.jpg Graphic file (type jpg)
 <use ./img/googlebeta.jpg>
 Package pdftex.def Info: ./img/googlebeta.jpg  used on input line 875.
 (pdftex.def)             Requested size: 227.62204pt x 155.52132pt.
-<./img/zarya.jpg, id=2477, 602.25pt x 666.99188pt>
+<./img/zarya.jpg, id=2444, 602.25pt x 666.99188pt>
 File: ./img/zarya.jpg Graphic file (type jpg)
 <use ./img/zarya.jpg>
 Package pdftex.def Info: ./img/zarya.jpg  used on input line 879.
@@ -1406,16 +1405,16 @@ Package pdftex.def Info: ./img/zarya.jpg  used on input line 879.
 [139
 
  <./img/googlebeta.jpg>]
-<./img/paypalLogo.png, id=2482, 1927.2pt x 512.91624pt>
-File: ./img/paypalLogo.png Graphic file (type png)
-<use ./img/paypalLogo.png>
-Package pdftex.def Info: ./img/paypalLogo.png  used on input line 883.
+<./img/paypalLogo.jpg, id=2449, 1927.2pt x 512.91624pt>
+File: ./img/paypalLogo.jpg Graphic file (type jpg)
+<use ./img/paypalLogo.jpg>
+Package pdftex.def Info: ./img/paypalLogo.jpg  used on input line 883.
 (pdftex.def)             Requested size: 142.26378pt x 37.85658pt.
- [140 <./img/zarya.jpg>] [141 <./img/paypalLogo.png>] [142
+ [140 <./img/zarya.jpg>] [141 <./img/paypalLogo.jpg>] [142
 
 ]
 Chapter 88.
-<./img/y2k.jpg, id=2496, 481.8pt x 361.35pt>
+<./img/y2k.jpg, id=2462, 481.8pt x 361.35pt>
 File: ./img/y2k.jpg Graphic file (type jpg)
 <use ./img/y2k.jpg>
 Package pdftex.def Info: ./img/y2k.jpg  used on input line 891.
@@ -1424,39 +1423,39 @@ Package pdftex.def Info: ./img/y2k.jpg  used on input line 891.
 
  <./img/y2k.jpg>]
 Chapter 89.
-<./img/wikipedia.png, id=2501, 466.74374pt x 465.23813pt>
-File: ./img/wikipedia.png Graphic file (type png)
-<use ./img/wikipedia.png>
-Package pdftex.def Info: ./img/wikipedia.png  used on input line 898.
-(pdftex.def)             Requested size: 85.35826pt x 85.08095pt.
+<./img/wikipedia.jpg, id=2467, 622.325pt x 620.3175pt>
+File: ./img/wikipedia.jpg Graphic file (type jpg)
+<use ./img/wikipedia.jpg>
+Package pdftex.def Info: ./img/wikipedia.jpg  used on input line 898.
+(pdftex.def)             Requested size: 85.35826pt x 85.08331pt.
 
 Overfull \hbox (3.57086pt too wide) in paragraph at lines 899--901
 \OT1/cmr/m/n/10.95 Jan-uary 15, 2001, as a sin-gle English-language edi-tion at
  www.wikipedia.com,
  []
 
-<./img/inaugGWBush.jpg, id=2502, 400.49625pt x 261.97874pt>
+<./img/inaugGWBush.jpg, id=2468, 400.49625pt x 261.97874pt>
 File: ./img/inaugGWBush.jpg Graphic file (type jpg)
 <use ./img/inaugGWBush.jpg>
 Package pdftex.def Info: ./img/inaugGWBush.jpg  used on input line 903.
 (pdftex.def)             Requested size: 227.62204pt x 148.8977pt.
 [144
 
- <./img/wikipedia.png>]
-<./img/9-11.jpg, id=2509, 489.32813pt x 389.95688pt>
+ <./img/wikipedia.jpg>]
+<./img/9-11.jpg, id=2474, 489.32813pt x 389.95688pt>
 File: ./img/9-11.jpg Graphic file (type jpg)
 <use ./img/9-11.jpg>
 Package pdftex.def Info: ./img/9-11.jpg  used on input line 908.
 (pdftex.def)             Requested size: 170.71652pt x 136.04663pt.
  [145 <./img/inaugGWBush.jpg>]
-<./img/xbox1.jpg, id=2514, 1927.2pt x 886.31125pt>
+<./img/xbox1.jpg, id=2479, 1927.2pt x 886.31125pt>
 File: ./img/xbox1.jpg Graphic file (type jpg)
 <use ./img/xbox1.jpg>
 Package pdftex.def Info: ./img/xbox1.jpg  used on input line 913.
 (pdftex.def)             Requested size: 284.52756pt x 130.84473pt.
  [146 <./img/9-11.jpg>] [147 <./img/xbox1.jpg>]
 Chapter 90.
-<./img/euro.jpg, id=2523, 218.31563pt x 130.98938pt>
+<./img/euro.jpg, id=2488, 218.31563pt x 130.98938pt>
 File: ./img/euro.jpg Graphic file (type jpg)
 <use ./img/euro.jpg>
 Package pdftex.def Info: ./img/euro.jpg  used on input line 920.
@@ -1465,12 +1464,12 @@ Package pdftex.def Info: ./img/euro.jpg  used on input line 920.
 
  <./img/euro.jpg>]
 Chapter 91.
-<./img/HGP.jpg, id=2528, 168.63pt x 169.38281pt>
+<./img/HGP.jpg, id=2493, 168.63pt x 169.38281pt>
 File: ./img/HGP.jpg Graphic file (type jpg)
 <use ./img/HGP.jpg>
 Package pdftex.def Info: ./img/HGP.jpg  used on input line 926.
 (pdftex.def)             Requested size: 85.35826pt x 85.74052pt.
-<./img/iraqWar.jpg, id=2529, 328.97906pt x 240.9pt>
+<./img/iraqWar.jpg, id=2494, 328.97906pt x 240.9pt>
 File: ./img/iraqWar.jpg Graphic file (type jpg)
 <use ./img/iraqWar.jpg>
 Package pdftex.def Info: ./img/iraqWar.jpg  used on input line 931.
@@ -1478,60 +1477,60 @@ Package pdftex.def Info: ./img/iraqWar.jpg  used on input line 931.
 [149
 
  <./img/HGP.jpg>]
-<./img/steamLogo.png, id=2534, 513.92pt x 513.92pt>
-File: ./img/steamLogo.png Graphic file (type png)
-<use ./img/steamLogo.png>
-Package pdftex.def Info: ./img/steamLogo.png  used on input line 935.
+<./img/steamLogo.jpg, id=2499, 513.92pt x 513.92pt>
+File: ./img/steamLogo.jpg Graphic file (type jpg)
+<use ./img/steamLogo.jpg>
+Package pdftex.def Info: ./img/steamLogo.jpg  used on input line 935.
 (pdftex.def)             Requested size: 142.26378pt x 142.26552pt.
- [150 <./img/iraqWar.jpg>] [151 <./img/steamLogo.png>]
+ [150 <./img/iraqWar.jpg>] [151 <./img/steamLogo.jpg>]
 Chapter 92.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 941.
 
-<./img/facebookLogo.png, id=2546, 513.92pt x 99.37125pt>
-File: ./img/facebookLogo.png Graphic file (type png)
-<use ./img/facebookLogo.png>
-Package pdftex.def Info: ./img/facebookLogo.png  used on input line 942.
+<./img/facebookLogo.jpg, id=2510, 513.92pt x 99.37125pt>
+File: ./img/facebookLogo.jpg Graphic file (type jpg)
+<use ./img/facebookLogo.jpg>
+Package pdftex.def Info: ./img/facebookLogo.jpg  used on input line 942.
 (pdftex.def)             Requested size: 56.9055pt x 11.00212pt.
-<./img/2004tsunami.jpg, id=2547, 554.07pt x 366.61969pt>
+<./img/2004tsunami.jpg, id=2511, 554.07pt x 366.61969pt>
 File: ./img/2004tsunami.jpg Graphic file (type jpg)
 <use ./img/2004tsunami.jpg>
 Package pdftex.def Info: ./img/2004tsunami.jpg  used on input line 947.
 (pdftex.def)             Requested size: 312.9803pt x 207.09575pt.
 [152
 
- <./img/facebookLogo.png>] [153 <./img/2004tsunami.jpg>]
+ <./img/facebookLogo.jpg>] [153 <./img/2004tsunami.jpg>]
 Chapter 93.
-<./img/youtubeLogo.png, id=2558, 513.92pt x 114.4275pt>
-File: ./img/youtubeLogo.png Graphic file (type png)
-<use ./img/youtubeLogo.png>
-Package pdftex.def Info: ./img/youtubeLogo.png  used on input line 954.
+<./img/youtubeLogo.jpg, id=2521, 513.92pt x 114.4275pt>
+File: ./img/youtubeLogo.jpg Graphic file (type jpg)
+<use ./img/youtubeLogo.jpg>
+Package pdftex.def Info: ./img/youtubeLogo.jpg  used on input line 954.
 (pdftex.def)             Requested size: 284.52756pt x 63.35262pt.
-<./img/hurricaneKatrina.jpg, id=2559, 149.05687pt x 191.9672pt>
+<./img/hurricaneKatrina.jpg, id=2522, 149.05687pt x 191.9672pt>
 File: ./img/hurricaneKatrina.jpg Graphic file (type jpg)
 <use ./img/hurricaneKatrina.jpg>
 Package pdftex.def Info: ./img/hurricaneKatrina.jpg  used on input line 959.
 (pdftex.def)             Requested size: 170.71652pt x 219.87593pt.
 [154
 
- <./img/youtubeLogo.png>] [155 <./img/hurricaneKatrina.jpg>]
+ <./img/youtubeLogo.jpg>] [155 <./img/hurricaneKatrina.jpg>]
 Chapter 94.
-<./img/twitter.png, id=2569, 210.7875pt x 171.64125pt>
-File: ./img/twitter.png Graphic file (type png)
-<use ./img/twitter.png>
-Package pdftex.def Info: ./img/twitter.png  used on input line 965.
-(pdftex.def)             Requested size: 142.26378pt x 115.84497pt.
-<./img/saddamhusseinexec.jpg, id=2570, 477.28313pt x 371.88937pt>
+<./img/twitter.jpg, id=2531, 281.05pt x 228.855pt>
+File: ./img/twitter.jpg Graphic file (type jpg)
+<use ./img/twitter.jpg>
+Package pdftex.def Info: ./img/twitter.jpg  used on input line 965.
+(pdftex.def)             Requested size: 142.26378pt x 115.84149pt.
+<./img/saddamhusseinexec.jpg, id=2532, 477.28313pt x 371.88937pt>
 File: ./img/saddamhusseinexec.jpg Graphic file (type jpg)
 <use ./img/saddamhusseinexec.jpg>
 Package pdftex.def Info: ./img/saddamhusseinexec.jpg  used on input line 970.
 (pdftex.def)             Requested size: 227.62204pt x 177.3586pt.
 [156
 
- <./img/twitter.png>] [157 <./img/saddamhusseinexec.jpg>]
+ <./img/twitter.jpg>] [157 <./img/saddamhusseinexec.jpg>]
 Chapter 95.
-<./img/iphone1.jpg, id=2581, 451.6875pt x 253.69781pt>
+<./img/iphone1.jpg, id=2542, 451.6875pt x 253.69781pt>
 File: ./img/iphone1.jpg Graphic file (type jpg)
 <use ./img/iphone1.jpg>
 Package pdftex.def Info: ./img/iphone1.jpg  used on input line 977.
@@ -1540,7 +1539,7 @@ Package pdftex.def Info: ./img/iphone1.jpg  used on input line 977.
 
  <./img/iphone1.jpg>]
 Chapter 96.
-<./img/fcrash2008.jpg, id=2586, 642.4pt x 240.9pt>
+<./img/fcrash2008.jpg, id=2547, 642.4pt x 240.9pt>
 File: ./img/fcrash2008.jpg Graphic file (type jpg)
 <use ./img/fcrash2008.jpg>
 Package pdftex.def Info: ./img/fcrash2008.jpg  used on input line 984.
@@ -1549,12 +1548,12 @@ Package pdftex.def Info: ./img/fcrash2008.jpg  used on input line 984.
 
  <./img/fcrash2008.jpg>]
 Chapter 97.
-<./img/obamaInaug.jpg, id=2591, 505.89pt x 361.35pt>
+<./img/obamaInaug.jpg, id=2552, 505.89pt x 361.35pt>
 File: ./img/obamaInaug.jpg Graphic file (type jpg)
 <use ./img/obamaInaug.jpg>
 Package pdftex.def Info: ./img/obamaInaug.jpg  used on input line 991.
 (pdftex.def)             Requested size: 227.62204pt x 162.58945pt.
-<./img/h1N1.jpg, id=2592, 18.0675pt x 21.25943pt>
+<./img/h1N1.jpg, id=2553, 18.0675pt x 21.25943pt>
 File: ./img/h1N1.jpg Graphic file (type jpg)
 <use ./img/h1N1.jpg>
 Package pdftex.def Info: ./img/h1N1.jpg  used on input line 996.
@@ -1562,23 +1561,23 @@ Package pdftex.def Info: ./img/h1N1.jpg  used on input line 996.
 [160
 
  <./img/obamaInaug.jpg>]
-<./img/burjKhalifa.jpg, id=2597, 422.57875pt x 642.4pt>
+<./img/burjKhalifa.jpg, id=2558, 422.57875pt x 642.4pt>
 File: ./img/burjKhalifa.jpg Graphic file (type jpg)
 <use ./img/burjKhalifa.jpg>
 Package pdftex.def Info: ./img/burjKhalifa.jpg  used on input line 1001.
 (pdftex.def)             Requested size: 170.71652pt x 259.52364pt.
  [161 <./img/h1N1.jpg>] [162 <./img/burjKhalifa.jpg>]
 Chapter 98.
-<./img/twitch.png, id=2607, 903.375pt x 299.61937pt>
-File: ./img/twitch.png Graphic file (type png)
-<use ./img/twitch.png>
-Package pdftex.def Info: ./img/twitch.png  used on input line 1007.
+<./img/twitch.jpg, id=2568, 1204.5pt x 399.4925pt>
+File: ./img/twitch.jpg Graphic file (type jpg)
+<use ./img/twitch.jpg>
+Package pdftex.def Info: ./img/twitch.jpg  used on input line 1007.
 (pdftex.def)             Requested size: 113.81102pt x 37.74492pt.
 [163
 
- <./img/twitch.png>]
+ <./img/twitch.jpg>]
 Chapter 99.
-<./img/curiosityRover.jpg, id=2613, 195.73125pt x 269.50688pt>
+<./img/curiosityRover.jpg, id=2573, 195.73125pt x 269.50688pt>
 File: ./img/curiosityRover.jpg Graphic file (type jpg)
 <use ./img/curiosityRover.jpg>
 Package pdftex.def Info: ./img/curiosityRover.jpg  used on input line 1015.
@@ -1591,7 +1590,7 @@ Chapter 100.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 1022.
 
-<./img/edwardSnowden.jpg, id=2619, 289.08pt x 158.2713pt>
+<./img/edwardSnowden.jpg, id=2579, 289.08pt x 158.2713pt>
 File: ./img/edwardSnowden.jpg Graphic file (type jpg)
 <use ./img/edwardSnowden.jpg>
 Package pdftex.def Info: ./img/edwardSnowden.jpg  used on input line 1023.
@@ -1600,21 +1599,21 @@ Package pdftex.def Info: ./img/edwardSnowden.jpg  used on input line 1023.
 
  <./img/edwardSnowden.jpg>]
 Chapter 101.
-<./img/discordLogo.png, id=2625, 1927.2pt x 530.98375pt>
-File: ./img/discordLogo.png Graphic file (type png)
-<use ./img/discordLogo.png>
-Package pdftex.def Info: ./img/discordLogo.png  used on input line 1030.
+<./img/discordLogo.jpg, id=2585, 1927.2pt x 530.98375pt>
+File: ./img/discordLogo.jpg Graphic file (type jpg)
+<use ./img/discordLogo.jpg>
+Package pdftex.def Info: ./img/discordLogo.jpg  used on input line 1030.
 (pdftex.def)             Requested size: 170.71652pt x 47.03297pt.
-<./img/satoruIwata.jpg, id=2626, 602.25pt x 903.375pt>
+<./img/satoruIwata.jpg, id=2586, 602.25pt x 903.375pt>
 File: ./img/satoruIwata.jpg Graphic file (type jpg)
 <use ./img/satoruIwata.jpg>
 Package pdftex.def Info: ./img/satoruIwata.jpg  used on input line 1036.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 [166
 
- <./img/discordLogo.png>] [167 <./img/satoruIwata.jpg>]
+ <./img/discordLogo.jpg>] [167 <./img/satoruIwata.jpg>]
 Chapter 102.
-<./img/muhammadAli.jpg, id=2636, 151.3153pt x 188.95593pt>
+<./img/muhammadAli.jpg, id=2595, 151.3153pt x 188.95593pt>
 File: ./img/muhammadAli.jpg Graphic file (type jpg)
 <use ./img/muhammadAli.jpg>
 Package pdftex.def Info: ./img/muhammadAli.jpg  used on input line 1042.
@@ -1623,7 +1622,7 @@ Package pdftex.def Info: ./img/muhammadAli.jpg  used on input line 1042.
 
  <./img/muhammadAli.jpg>]
 Chapter 103.
-<./img/trumpInaug.jpg, id=2642, 2055.68pt x 1370.11874pt>
+<./img/trumpInaug.jpg, id=2601, 2055.68pt x 1370.11874pt>
 File: ./img/trumpInaug.jpg Graphic file (type jpg)
 <use ./img/trumpInaug.jpg>
 Package pdftex.def Info: ./img/trumpInaug.jpg  used on input line 1050.
@@ -1632,7 +1631,7 @@ Package pdftex.def Info: ./img/trumpInaug.jpg  used on input line 1050.
 
  <./img/trumpInaug.jpg>]
 Chapter 104.
-<./img/stephenHawking.jpg, id=2647, 233.87375pt x 349.305pt>
+<./img/stephenHawking.jpg, id=2606, 233.87375pt x 349.305pt>
 File: ./img/stephenHawking.jpg Graphic file (type jpg)
 <use ./img/stephenHawking.jpg>
 Package pdftex.def Info: ./img/stephenHawking.jpg  used on input line 1057.
@@ -1663,13 +1662,13 @@ Package rerunfilecheck Warning: File `history.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `history.out':
-(rerunfilecheck)             Before: 6D4CA814A3BB7D6C731A8337E93C4692;28651
+(rerunfilecheck)             Before: 4396AC1E1897CCA489288DD0C9BE65B1;28684
 (rerunfilecheck)             After:  D8B8F07E2B90EA32561F5A78F3D10584;28683.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1069.
  ) 
 Here is how much of TeX's memory you used:
- 7171 strings out of 492970
- 110354 string characters out of 3135842
+ 7170 strings out of 492970
+ 110350 string characters out of 3135842
  172600 words of memory out of 3000000
  10247 multiletter control sequences out of 15000+200000
  10273 words of font info for 36 fonts, out of 3000000 for 9000
@@ -1683,9 +1682,9 @@ s/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr9.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mu10.pfb>
-Output written on history.pdf (172 pages, 15730768 bytes).
+Output written on history.pdf (172 pages, 14329636 bytes).
 PDF statistics:
- 2815 PDF objects out of 2984 (max. 8388607)
+ 2774 PDF objects out of 2984 (max. 8388607)
  614 named destinations out of 1000 (max. 500000)
  4172 words of extra memory for PDF output out of 10000 (max. 10000000)
 

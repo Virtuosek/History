@@ -1,0 +1,138 @@
+OBSOLETE (ignore):
+* 499-400 BC
+    * 470
+        * Birth of Socrates
+* 16th century
+    * 1596
+        * René Descartes is born
+* 19th century
+    * 1806
+        * Beginning construction of Arc de Triomphe
+    * 1847
+        * H&M is founded
+    * 1848
+        * Revolutions of 1848
+        * The Communist Manifesto is released
+    * 1854
+        * Louis Vuitton is founded
+    * 1869
+        * birth of gandhi
+    * 1879
+        * birth of einstein
+    * 1889
+        * birth of charlie chaplin
+        * birth of adolf hitler
+        * founding of nintendo
+* 20th century
+    * 1918
+        * Spanish Flu
+        * German revolution (removed: contradiction in wikipedia?)
+        * World War I ends
+    * 1919
+        * Treaty of Versailles
+    * 1922
+        * The discovery of Tutankhamun
+    * 1928 
+        * Birth of penicillin (removed: lack of info)
+    * 1930 
+        * Salt March
+        * First FIFA World Cup
+    * 1933
+        * Nissan is founded
+    * 1936 
+        * Spanish Civil War
+    * 1939
+        * The Long Mach
+        * German invasion of Poland (World War II begins)
+    * 1941 
+        * Battle of Moscow
+        * Attack of Pearl Harbor
+    * 1945
+        *  Bombing of Hiroshima and Ngasaki 
+    * 1948
+        * Assassination of Mahatma Gandhi
+    * 1949
+        * LEGO formed
+    * 1950
+        *  start of korean war
+    * 1958
+        * nasa founded
+    * 1959
+        *  vietnam war (many wars)
+    * 1962 
+        * cuban missile crisis
+    * 1973 
+        * Green march morocco 
+    * 1979 
+        * smallpox eradicated (removed, no data for 1979, is for 1980)
+    * 1989 
+        * tiananmen square massacre
+    * 1990
+        * Launch of the Hubble Space Telescope
+        * Invasion of Kuwait
+    * 1991
+        * First Website is put online and available to the public   (removed: "This date is sometimes confused with the public availability of the first web servers, which had occurred months earlier.")
+        * Dissolution of the Soviet Union
+    * 1992
+        * Maastricht Treaty creates the European Union
+        * The first extra-solar planet is confirmed
+    * 1994
+        * Election of Nelson Mandela
+        * Amazon founded
+    * 1995
+        * First Conference of the Parties (COP 1)
+        * First release of Internet Explorer
+    * 1996
+        * The first successful cloned mammal: Dolly the sheep
+        * Valve Corp. is founded
+    * 1998
+        * Google is founded
+        * Zarya launched (first ISS module)
+* 21st century
+    * 2000
+        * 3rd millenium  (removed)
+        * year 2000 problem (y2K)
+    * 2001
+        * wikipedia
+        * 9-11 attacks
+        * xbox introduced
+    * 2002
+        * euro introduced in the EU
+    * 2003
+        *  human genome project completed
+        * beginning of iraq war
+        * steam founded
+    * 2004
+        * facebook founded
+        * indian ocean tsunami
+    * 2005
+        * youtube founded
+        * hurricane katrina
+    * 2006
+        * execution of Saddam Hussein
+        * twitter founded
+    * 2007
+        * iphone released
+    * 2008
+        * financial crisis
+    * 2009
+        * obama inauguration  (needs more text)
+        * swine influenza h1n1
+        * burj khalifa completed
+    * 2011
+        * twitch founded
+    * 2012
+        * rover lands on mars
+    * 2013
+        * voyager 1 exits solar system  (removed, uncertain info)
+        * Edward Snowden leaks NSA data
+    * 2015
+        * Death of Satoru Iwata
+    * 2016
+        * death of muhammad ali
+    * 2017
+        * inauguration of trump
+    * 2018
+        * death of stephen hawking
+        * death of ali banat  (removed, lack of info)
+            
