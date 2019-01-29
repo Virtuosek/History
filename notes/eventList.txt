@@ -1,0 +1,253 @@
+New (put new events here):
+* scoda
+* ciat
+* fiat
+* opel
+* kia
+* suzuki
+* hyundai
+* mistubishi
+* burger king
+* volvo
+* honda
+* subao
+* nissan
+* mazda
+* chervrolet
+* land rover
+* geppa
+* jaguare
+* bently
+* audi
+* oyota
+* mercedes
+* bmw
+* vw
+* peugot
+* reunault
+*  ford
+* mazzerati
+* lamborghini
+* porsh
+* ferrari
+* https://www.youtube.com/watch?v=9fbLquY7zZ0
+* LOTR book 3 published
+* naming of "black hole" 1967
+* Amerigo Vespucci
+* christophus collombus discovers america
+* tesla
+* edison
+* einstein comes up with the theory of relativity
+* marco polo
+* trinagle of fibonacci 
+* phitagorse and thalès
+* "hand of god"
+Update/removed:
+* Pantheon, Rome (too many dates)
+* Discovery of the elementary particles (many particles, many years...)
+* Great Sphinx of Giza (date info?)
+* Mesoamerican pyramids (51 pyramids?!)
+* Great Wall of China (dates?)
+* Statue of Liberty (completion date?)
+* big ben (lack of info)
+* big ben stops ringing for the first time after x years (justified?)
+* isaac newton discovers gravity (date?)
+* Pasteurization (date?)
+* victoria's secret (jusitifed?)
+* otacos (lack of info, justified?)
+* johnson (lack of info)
+* flunch (lack of info)
+* dove (lack of history data)
+* panten  lack of history data)
+* hollywood (lack of info)
+* msn (lack of info)
+* guess (justified, lack of info)
+* polo (ralph lauren, justified?)
+* tommy hilfiger (more data on person)
+* al akhawayn (justified?)
+* NSA founded   (wiki conflict? nov 4 or october 24?)
+* CIA   founded (wiki conflict? july 26 or september 28?)
+* monopoly founded (lack of info)
+* enigma/turing   (lack of info)
+*  vietnam war (many wars)
+* German revolution (contradiction in wikipedia?)
+* Birth of penicillin (lack of info)
+* smallpox eradicated (conflict in year data: 1979, 1980)
+* xFirst Website is put online and available to the public
+* voyager 1 exits solar system  (uncertain info)
+* death of ali banat  (lack of info)
+Added (incomplete):
+* Discovery of Nuclear fission
+* Completion of the Colosseum
+* Building of the Great Pyramid of Giza
+* Completion of the Statue: Christ the Redeemer
+* Completion of the Leaning Tower of Pisa
+* Taj Mahal
+* Sydney Opera House
+* Tokyo Tower
+* IKEA
+* White House
+* Fifa formed
+* HP
+* Lenovo
+* Asus
+* Dell
+* Toshiba
+* Compaq
+* Ibm
+* Samsung
+* Huawei
+* Oppo
+* Dodge
+* Nokia
+* Harley Davidson
+* Tesla
+* Bugatti
+* zara
+* quick
+* kfc
+* starbucks
+* dominospizza
+* pizzahut
+* aldi
+* subway
+* carrefour
+* fnac
+* virgin
+* lidl
+* decathlon
+* toys R Us
+* disneyland
+* nestlé
+* danon
+* kellogg's
+* coca cola
+* razer
+* amd
+* nvidia
+* intel
+* colombia pictures
+* msi
+* steelseries
+* sony
+* ea
+* acer
+* logitech
+* ubisoft
+* bethezda
+* activision
+* wii u (not ww release)
+* gameloft
+* wii
+* playastion
+* switch
+* sega
+* square enix
+* konami
+* LOTR book 2 published
+* Obsidian Entertainment
+* discord
+* bandai namko
+* ebay
+* from software
+* paypal
+* yahoo
+* rayban
+* nike
+* adidas
+* puma
+* lacoste
+* swatch
+* rolex
+* dolce&gabanna
+* gucci
+* Louis Vuitton is founded
+* primark founded
+* H&M is founded
+* C&A founded
+* birth of gallileo
+* birth of charlie chaplin
+* birth of gandhi
+* Birth of Socrates
+* birth of adolf hitler
+* birth of einstein
+* Birth of Napoleon Bonaparte
+* Birth of Victor Hugo
+* René Descartes
+* Death of Satoru Iwata
+* death of muhammad ali
+* death of stephen hawking
+* death of gallileo
+* unicef
+* lincoln inauguration
+* usa independence
+* roosevelt
+* oxford
+* george bush inauguration
+* john tyler (10th US president) inauguration
+* Harvard
+* Assassination of JFK
+* Battle of Dunkirk
+* obama inauguration 
+* FBI   founded
+* The Assassination of Martin Luther King
+* cuban missile crisis
+* Beginning construction of Arc de Triomphe
+* founding of nintendo
+* Revolutions of 1848
+* The Communist Manifesto is released
+* founding of nintendo
+* Spanish Flu
+* World War I ends
+* Treaty of Versailles
+* The discovery of Tutankhamun
+* Salt March
+* First FIFA World Cup
+* Nissan is founded
+* The Long Mach
+* German invasion of Poland (World War II begins)
+* Battle of Moscow
+* Attack of Pearl Harbor
+*  Bombing of Hiroshima and Ngasaki 
+* Assassination of Mahatma Gandhi
+* LEGO formed
+*  start of korean war
+* nasa founded
+* Green march morocco 
+* tiananmen square massacre
+* Launch of the Hubble Space Telescope
+* Invasion of Kuwait
+* Dissolution of the Soviet Union
+* Maastricht Treaty creates the European Union
+* The first extra-solar planet is confirmed
+* Election of Nelson Mandela
+* Amazon founded
+* First Conference of the Parties (COP 1)
+* First release of Internet Explorer
+* The first successful cloned mammal: Dolly the sheep
+* Valve Corp. is founded
+* Google is founded
+* Zarya launched (first ISS module)
+* year 2000 problem (y2K)
+* wikipedia
+* 9-11 attacks
+* xbox introduced
+* 2008 financial crisis
+* euro introduced in the EU
+*  human genome project completed
+* beginning of iraq war
+* steam founded
+* facebook founded
+* indian ocean tsunami
+* youtube founded
+* hurricane katrina
+* execution of Saddam Hussein
+* twitter founded
+* iphone released
+* financial crisis
+* swine influenza h1n1
+* burj khalifa completed
+* twitch founded
+* rover lands on mars
+* Edward Snowden leaks NSA data
+* inauguration of trump
