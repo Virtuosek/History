@@ -1,48 +1,25 @@
 New (put new events here):
-* scoda
-* ciat
-* fiat
-* opel
-* kia
-* suzuki
-* hyundai
-* mistubishi
-* burger king
-* volvo
-* honda
-* subao
-* nissan
-* mazda
-* chervrolet
-* land rover
-* geppa
-* jaguare
-* bently
-* audi
-* oyota
-* mercedes
-* bmw
-* vw
-* peugot
-* reunault
-*  ford
-* mazzerati
-* lamborghini
-* porsh
-* ferrari
-* https://www.youtube.com/watch?v=9fbLquY7zZ0
-* LOTR book 3 published
-* naming of "black hole" 1967
-* Amerigo Vespucci
-* christophus collombus discovers america
-* tesla
-* edison
-* einstein comes up with the theory of relativity
-* marco polo
-* trinagle of fibonacci 
-* phitagorse and thalès
-* "hand of god"
+* Cars
+    * scoda
+    * ciat
+    * opel
+    * volvo
+    * subao
+    * mazda
+    * land rover
+    * geppa
+    * jaguare
+    * bently
+    * vw
+    * mazzerati
+    * chervrolet
+    * honda
+    * toyota
+* Assassination of malcolm x (add after watching 2 movies)
 Update/removed:
+* Inauguration of Richard Nixon (lack of description)
+* Amerigo Vespucci (lack of info)
+* marco polo (specific?)
 * Pantheon, Rome (too many dates)
 * Discovery of the elementary particles (many particles, many years...)
 * Great Sphinx of Giza (date info?)
@@ -77,6 +54,35 @@ Update/removed:
 * voyager 1 exits solar system  (uncertain info)
 * death of ali banat  (lack of info)
 Added (incomplete):
+* Founding of Kia Motors
+* Founding of Mitsubishi Motors
+* Formation of Hyundai Motor Company
+* Founding of Fiat Automobiles
+* Founding of Peugeot
+* Founding of Renault
+* Founding of Volkswagen
+* Uncovering of the STUXnet virus
+* Thomas Edison's first successful light bulb test
+* audi
+* burger king
+* mercedes
+* bmw
+*  ford
+* lamborghini
+* porsche
+* tesla
+* ferrari
+* suzuki
+* Deep Blue versus Garry Kasparov
+* 2015–16 Zika virus epidemic
+* Eradication of Smallpox
+* West African Ebola virus epidemic
+* Mass production of Teflon PTFE 
+* Publishing of the Theory Relativity
+* Sailing of Christopher Colombus to America
+* Founding of Apple Inc.
+* Construction of the Berlin Wall
+* naming of "black hole" 1967
 * Discovery of Nuclear fission
 * Completion of the Colosseum
 * Building of the Great Pyramid of Giza
